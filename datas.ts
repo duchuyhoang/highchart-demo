@@ -1,3 +1,6 @@
+import jsonData from "./metrics_data_202312130020.json";
+import jsonColumnData from "./colums.json";
+
 function randomIntFromInterval(min: number, max: number) {
   // min and max included
   return Math.floor(Math.random() * (max - min + 1) + min);
@@ -7,21 +10,30 @@ const years = [
   2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021,
   //   , 2022, 2023,
 ];
-export const datas: any = years.reduce((prev, year) => {
-  return prev.concat(
-    new Array(30)
-      .fill(null)
-      .map((v, index) => [
-        Date.UTC(year, 0) + index * 9 * 86400000,
-        year > 2012
-          ? index % 6 === 0
-            ? randomIntFromInterval(-185, 188)
-            : randomIntFromInterval(-185, 190)
-          : randomIntFromInterval(1, 5),
-        randomIntFromInterval(20000, 100000),
-      ])
-  ) as any;
-}, []);
+
+export const datas = jsonData
+  .map((v) => [new Date(v.time).getTime(), v.value])
+  .slice(0, 60);
+
+export const columnDatas = jsonColumnData
+  .map((v) => [new Date(v.time).getTime(), v.value])
+  .slice(0, 60);
+
+// export const datas: any = years.reduce((prev, year) => {
+//   return prev.concat(
+//     new Array(30)
+//       .fill(null)
+//       .map((v, index) => [
+//         Date.UTC(year, 0) + index * 9 * 86400000,
+//         year > 2012
+//           ? index % 6 === 0
+//             ? randomIntFromInterval(-185, 188)
+//             : randomIntFromInterval(-185, 190)
+//           : randomIntFromInterval(1, 5),
+//         randomIntFromInterval(20000, 100000),
+//       ])
+//   ) as any;
+// }, []);
 
 // export const datas = [
 //   [1528205400000, 193.07, 193.94],

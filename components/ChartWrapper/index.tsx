@@ -7,7 +7,7 @@ import Highcharts, {
   VerticalAlignValue,
 } from "highcharts";
 import { useEffect, useMemo, useRef, useState } from "react";
-import { datas } from "../../datas";
+import { columnDatas, datas } from "../../datas";
 import { shortenNumber } from "@/common/utils";
 import data from "../../data.json";
 import ChartConfigDrawer from "../ChartConfigDrawer";
@@ -122,8 +122,8 @@ function Chart() {
       },
       {
         name: "Price (USD)",
-        // data: datas.map((d) => [d[0], d[2]]),
-        data: formattedDatas,
+        data: columnDatas.map((d: any) => [d[0], d[1]]),
+        // data: formattedDatas,
         type: "line",
         dashStyle: CHART_DEFAULT_CONFIGS_PARAMS["DASH_STYLE"] as DashStyleValue,
         opacity: CHART_DEFAULT_CONFIGS_PARAMS["OPACITY"],
@@ -214,7 +214,7 @@ function Chart() {
         <div
           style={{
             height: "100vh",
-            width: "max-content",
+            width: "100%",
             display: "flex",
             justifyContent: "center",
             alignItems: "center",
@@ -274,7 +274,7 @@ function Chart() {
           <Box
             id="container"
             style={{
-              width: "800px",
+              width: "100%",
               aspectRatio: "16/9",
             }}
             sx={{

@@ -1,0 +1,2938 @@
+[
+  {
+    "id": 114549,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-11T00:00:00.000Z",
+    "value": 17102.83939520771,
+    "created_time": "2023-12-12T02:00:05.240Z",
+    "updated_time": "2023-12-12T02:00:05.240Z"
+  },
+  {
+    "id": 114550,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-12T00:00:00.000Z",
+    "value": 17211.814017390923,
+    "created_time": "2023-12-12T02:00:05.243Z",
+    "updated_time": "2023-12-12T02:00:05.243Z"
+  },
+  {
+    "id": 114551,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-13T00:00:00.000Z",
+    "value": 17783.960092986246,
+    "created_time": "2023-12-12T02:00:05.246Z",
+    "updated_time": "2023-12-12T02:00:05.246Z"
+  },
+  {
+    "id": 114552,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-14T00:00:00.000Z",
+    "value": 17827.323893486162,
+    "created_time": "2023-12-12T02:00:05.249Z",
+    "updated_time": "2023-12-12T02:00:05.249Z"
+  },
+  {
+    "id": 114553,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-15T00:00:00.000Z",
+    "value": 17371.062381647283,
+    "created_time": "2023-12-12T02:00:05.252Z",
+    "updated_time": "2023-12-12T02:00:05.252Z"
+  },
+  {
+    "id": 114554,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-16T00:00:00.000Z",
+    "value": 16626.236339648294,
+    "created_time": "2023-12-12T02:00:05.256Z",
+    "updated_time": "2023-12-12T02:00:05.256Z"
+  },
+  {
+    "id": 114555,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-17T00:00:00.000Z",
+    "value": 16800.22994630168,
+    "created_time": "2023-12-12T02:00:05.262Z",
+    "updated_time": "2023-12-12T02:00:05.262Z"
+  },
+  {
+    "id": 114556,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-18T00:00:00.000Z",
+    "value": 16777.875946924985,
+    "created_time": "2023-12-12T02:00:05.267Z",
+    "updated_time": "2023-12-12T02:00:05.267Z"
+  },
+  {
+    "id": 114557,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-19T00:00:00.000Z",
+    "value": 16450.95417642902,
+    "created_time": "2023-12-12T02:00:05.273Z",
+    "updated_time": "2023-12-12T02:00:05.273Z"
+  },
+  {
+    "id": 114558,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-20T00:00:00.000Z",
+    "value": 16899.81654278975,
+    "created_time": "2023-12-12T02:00:05.280Z",
+    "updated_time": "2023-12-12T02:00:05.280Z"
+  },
+  {
+    "id": 114559,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-21T00:00:00.000Z",
+    "value": 16810.931353941887,
+    "created_time": "2023-12-12T02:00:05.286Z",
+    "updated_time": "2023-12-12T02:00:05.286Z"
+  },
+  {
+    "id": 114560,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-22T00:00:00.000Z",
+    "value": 16829.605383463084,
+    "created_time": "2023-12-12T02:00:05.295Z",
+    "updated_time": "2023-12-12T02:00:05.295Z"
+  },
+  {
+    "id": 114561,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-23T00:00:00.000Z",
+    "value": 16795.752196334197,
+    "created_time": "2023-12-12T02:00:05.301Z",
+    "updated_time": "2023-12-12T02:00:05.301Z"
+  },
+  {
+    "id": 114562,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-24T00:00:00.000Z",
+    "value": 16850.464096804895,
+    "created_time": "2023-12-12T02:00:05.307Z",
+    "updated_time": "2023-12-12T02:00:05.307Z"
+  },
+  {
+    "id": 114563,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-25T00:00:00.000Z",
+    "value": 16838.620225324925,
+    "created_time": "2023-12-12T02:00:05.312Z",
+    "updated_time": "2023-12-12T02:00:05.312Z"
+  },
+  {
+    "id": 114564,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-26T00:00:00.000Z",
+    "value": 16892.583089155054,
+    "created_time": "2023-12-12T02:00:05.319Z",
+    "updated_time": "2023-12-12T02:00:05.319Z"
+  },
+  {
+    "id": 114565,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-27T00:00:00.000Z",
+    "value": 16711.68712786828,
+    "created_time": "2023-12-12T02:00:05.329Z",
+    "updated_time": "2023-12-12T02:00:05.329Z"
+  },
+  {
+    "id": 114566,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-28T00:00:00.000Z",
+    "value": 16547.566869596216,
+    "created_time": "2023-12-12T02:00:05.336Z",
+    "updated_time": "2023-12-12T02:00:05.336Z"
+  },
+  {
+    "id": 114567,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-29T00:00:00.000Z",
+    "value": 16633.730496622004,
+    "created_time": "2023-12-12T02:00:05.342Z",
+    "updated_time": "2023-12-12T02:00:05.342Z"
+  },
+  {
+    "id": 114568,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-30T00:00:00.000Z",
+    "value": 16605.92243616084,
+    "created_time": "2023-12-12T02:00:05.349Z",
+    "updated_time": "2023-12-12T02:00:05.349Z"
+  },
+  {
+    "id": 114569,
+    "name": "btc_price_usd_close",
+    "time": "2022-12-31T00:00:00.000Z",
+    "value": 16553.336986575105,
+    "created_time": "2023-12-12T02:00:05.356Z",
+    "updated_time": "2023-12-12T02:00:05.356Z"
+  },
+  {
+    "id": 114570,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-01T00:00:00.000Z",
+    "value": 16620.819926680455,
+    "created_time": "2023-12-12T02:00:05.361Z",
+    "updated_time": "2023-12-12T02:00:05.361Z"
+  },
+  {
+    "id": 114571,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-02T00:00:00.000Z",
+    "value": 16693.930009097385,
+    "created_time": "2023-12-12T02:00:05.367Z",
+    "updated_time": "2023-12-12T02:00:05.367Z"
+  },
+  {
+    "id": 114572,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-03T00:00:00.000Z",
+    "value": 16682.715885309375,
+    "created_time": "2023-12-12T02:00:05.373Z",
+    "updated_time": "2023-12-12T02:00:05.373Z"
+  },
+  {
+    "id": 114573,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-04T00:00:00.000Z",
+    "value": 16865.15975485146,
+    "created_time": "2023-12-12T02:00:05.379Z",
+    "updated_time": "2023-12-12T02:00:05.379Z"
+  },
+  {
+    "id": 114574,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-05T00:00:00.000Z",
+    "value": 16841.821595524252,
+    "created_time": "2023-12-12T02:00:05.385Z",
+    "updated_time": "2023-12-12T02:00:05.385Z"
+  },
+  {
+    "id": 114575,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-06T00:00:00.000Z",
+    "value": 16961.05741131378,
+    "created_time": "2023-12-12T02:00:05.391Z",
+    "updated_time": "2023-12-12T02:00:05.391Z"
+  },
+  {
+    "id": 114576,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-07T00:00:00.000Z",
+    "value": 16950.888235989467,
+    "created_time": "2023-12-12T02:00:05.397Z",
+    "updated_time": "2023-12-12T02:00:05.397Z"
+  },
+  {
+    "id": 114577,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-08T00:00:00.000Z",
+    "value": 17057.224457919016,
+    "created_time": "2023-12-12T02:00:05.403Z",
+    "updated_time": "2023-12-12T02:00:05.403Z"
+  },
+  {
+    "id": 114578,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-09T00:00:00.000Z",
+    "value": 17190.709689133,
+    "created_time": "2023-12-12T02:00:05.409Z",
+    "updated_time": "2023-12-12T02:00:05.409Z"
+  },
+  {
+    "id": 114579,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-10T00:00:00.000Z",
+    "value": 17437.107150361127,
+    "created_time": "2023-12-12T02:00:05.418Z",
+    "updated_time": "2023-12-12T02:00:05.418Z"
+  },
+  {
+    "id": 114580,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-11T00:00:00.000Z",
+    "value": 17915.65251524473,
+    "created_time": "2023-12-12T02:00:05.425Z",
+    "updated_time": "2023-12-12T02:00:05.425Z"
+  },
+  {
+    "id": 114581,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-12T00:00:00.000Z",
+    "value": 18869.857175796245,
+    "created_time": "2023-12-12T02:00:05.430Z",
+    "updated_time": "2023-12-12T02:00:05.430Z"
+  },
+  {
+    "id": 114582,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-13T00:00:00.000Z",
+    "value": 19865.27358276288,
+    "created_time": "2023-12-12T02:00:05.437Z",
+    "updated_time": "2023-12-12T02:00:05.437Z"
+  },
+  {
+    "id": 114583,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-14T00:00:00.000Z",
+    "value": 21020.72155064192,
+    "created_time": "2023-12-12T02:00:05.444Z",
+    "updated_time": "2023-12-12T02:00:05.444Z"
+  },
+  {
+    "id": 114584,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-15T00:00:00.000Z",
+    "value": 20873.352880342638,
+    "created_time": "2023-12-12T02:00:05.451Z",
+    "updated_time": "2023-12-12T02:00:05.451Z"
+  },
+  {
+    "id": 114585,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-16T00:00:00.000Z",
+    "value": 21171.400108633272,
+    "created_time": "2023-12-12T02:00:05.458Z",
+    "updated_time": "2023-12-12T02:00:05.458Z"
+  },
+  {
+    "id": 114586,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-17T00:00:00.000Z",
+    "value": 21187.13555809042,
+    "created_time": "2023-12-12T02:00:05.465Z",
+    "updated_time": "2023-12-12T02:00:05.465Z"
+  },
+  {
+    "id": 114587,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-18T00:00:00.000Z",
+    "value": 20722.71808503464,
+    "created_time": "2023-12-12T02:00:05.476Z",
+    "updated_time": "2023-12-12T02:00:05.476Z"
+  },
+  {
+    "id": 114588,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-19T00:00:00.000Z",
+    "value": 21067.802828202995,
+    "created_time": "2023-12-12T02:00:05.488Z",
+    "updated_time": "2023-12-12T02:00:05.488Z"
+  },
+  {
+    "id": 114589,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-20T00:00:00.000Z",
+    "value": 22664.23598547725,
+    "created_time": "2023-12-12T02:00:05.494Z",
+    "updated_time": "2023-12-12T02:00:05.494Z"
+  },
+  {
+    "id": 114590,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-21T00:00:00.000Z",
+    "value": 22795.682534805237,
+    "created_time": "2023-12-12T02:00:05.500Z",
+    "updated_time": "2023-12-12T02:00:05.500Z"
+  },
+  {
+    "id": 114591,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-22T00:00:00.000Z",
+    "value": 22715.780947987507,
+    "created_time": "2023-12-12T02:00:05.506Z",
+    "updated_time": "2023-12-12T02:00:05.506Z"
+  },
+  {
+    "id": 114592,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-23T00:00:00.000Z",
+    "value": 22954.110863578117,
+    "created_time": "2023-12-12T02:00:05.515Z",
+    "updated_time": "2023-12-12T02:00:05.515Z"
+  },
+  {
+    "id": 114593,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-24T00:00:00.000Z",
+    "value": 22625.995897502617,
+    "created_time": "2023-12-12T02:00:05.521Z",
+    "updated_time": "2023-12-12T02:00:05.521Z"
+  },
+  {
+    "id": 114594,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-25T00:00:00.000Z",
+    "value": 23149.5513940547,
+    "created_time": "2023-12-12T02:00:05.531Z",
+    "updated_time": "2023-12-12T02:00:05.531Z"
+  },
+  {
+    "id": 114595,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-26T00:00:00.000Z",
+    "value": 23023.944572856795,
+    "created_time": "2023-12-12T02:00:05.545Z",
+    "updated_time": "2023-12-12T02:00:05.545Z"
+  },
+  {
+    "id": 114596,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-27T00:00:00.000Z",
+    "value": 23071.798990193765,
+    "created_time": "2023-12-12T02:00:05.552Z",
+    "updated_time": "2023-12-12T02:00:05.552Z"
+  },
+  {
+    "id": 114597,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-28T00:00:00.000Z",
+    "value": 23015.461679885702,
+    "created_time": "2023-12-12T02:00:05.560Z",
+    "updated_time": "2023-12-12T02:00:05.560Z"
+  },
+  {
+    "id": 114598,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-29T00:00:00.000Z",
+    "value": 23773.985940647322,
+    "created_time": "2023-12-12T02:00:05.568Z",
+    "updated_time": "2023-12-12T02:00:05.568Z"
+  },
+  {
+    "id": 114599,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-30T00:00:00.000Z",
+    "value": 22813.37972271359,
+    "created_time": "2023-12-12T02:00:05.579Z",
+    "updated_time": "2023-12-12T02:00:05.579Z"
+  },
+  {
+    "id": 114600,
+    "name": "btc_price_usd_close",
+    "time": "2023-01-31T00:00:00.000Z",
+    "value": 23137.16102895742,
+    "created_time": "2023-12-12T02:00:05.590Z",
+    "updated_time": "2023-12-12T02:00:05.590Z"
+  },
+  {
+    "id": 114601,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-01T00:00:00.000Z",
+    "value": 23711.52762911039,
+    "created_time": "2023-12-12T02:00:05.598Z",
+    "updated_time": "2023-12-12T02:00:05.598Z"
+  },
+  {
+    "id": 114602,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-02T00:00:00.000Z",
+    "value": 23494.436388637838,
+    "created_time": "2023-12-12T02:00:05.604Z",
+    "updated_time": "2023-12-12T02:00:05.604Z"
+  },
+  {
+    "id": 114603,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-03T00:00:00.000Z",
+    "value": 23459.953587940785,
+    "created_time": "2023-12-12T02:00:05.610Z",
+    "updated_time": "2023-12-12T02:00:05.610Z"
+  },
+  {
+    "id": 114604,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-04T00:00:00.000Z",
+    "value": 23318.747995030815,
+    "created_time": "2023-12-12T02:00:05.616Z",
+    "updated_time": "2023-12-12T02:00:05.616Z"
+  },
+  {
+    "id": 114605,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-05T00:00:00.000Z",
+    "value": 22965.072230637783,
+    "created_time": "2023-12-12T02:00:05.622Z",
+    "updated_time": "2023-12-12T02:00:05.622Z"
+  },
+  {
+    "id": 114606,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-06T00:00:00.000Z",
+    "value": 22768.971773856076,
+    "created_time": "2023-12-12T02:00:05.634Z",
+    "updated_time": "2023-12-12T02:00:05.634Z"
+  },
+  {
+    "id": 114607,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-07T00:00:00.000Z",
+    "value": 23273.984336069887,
+    "created_time": "2023-12-12T02:00:05.649Z",
+    "updated_time": "2023-12-12T02:00:05.649Z"
+  },
+  {
+    "id": 114608,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-08T00:00:00.000Z",
+    "value": 22945.945606612167,
+    "created_time": "2023-12-12T02:00:05.655Z",
+    "updated_time": "2023-12-12T02:00:05.655Z"
+  },
+  {
+    "id": 114609,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-09T00:00:00.000Z",
+    "value": 21835.070474351407,
+    "created_time": "2023-12-12T02:00:05.661Z",
+    "updated_time": "2023-12-12T02:00:05.661Z"
+  },
+  {
+    "id": 114610,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-10T00:00:00.000Z",
+    "value": 21641.69281260423,
+    "created_time": "2023-12-12T02:00:05.666Z",
+    "updated_time": "2023-12-12T02:00:05.666Z"
+  },
+  {
+    "id": 114611,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-11T00:00:00.000Z",
+    "value": 21871.615072334112,
+    "created_time": "2023-12-12T02:00:05.672Z",
+    "updated_time": "2023-12-12T02:00:05.672Z"
+  },
+  {
+    "id": 114612,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-12T00:00:00.000Z",
+    "value": 21768.024951463125,
+    "created_time": "2023-12-12T02:00:05.682Z",
+    "updated_time": "2023-12-12T02:00:05.682Z"
+  },
+  {
+    "id": 114613,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-13T00:00:00.000Z",
+    "value": 21816.4969923938,
+    "created_time": "2023-12-12T02:00:05.689Z",
+    "updated_time": "2023-12-12T02:00:05.689Z"
+  },
+  {
+    "id": 114614,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-14T00:00:00.000Z",
+    "value": 22226.89579602301,
+    "created_time": "2023-12-12T02:00:05.696Z",
+    "updated_time": "2023-12-12T02:00:05.696Z"
+  },
+  {
+    "id": 114615,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-15T00:00:00.000Z",
+    "value": 24295.78232684403,
+    "created_time": "2023-12-12T02:00:05.702Z",
+    "updated_time": "2023-12-12T02:00:05.702Z"
+  },
+  {
+    "id": 114616,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-16T00:00:00.000Z",
+    "value": 23657.250699214906,
+    "created_time": "2023-12-12T02:00:05.708Z",
+    "updated_time": "2023-12-12T02:00:05.708Z"
+  },
+  {
+    "id": 114617,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-17T00:00:00.000Z",
+    "value": 24577.916547537967,
+    "created_time": "2023-12-12T02:00:05.713Z",
+    "updated_time": "2023-12-12T02:00:05.713Z"
+  },
+  {
+    "id": 114618,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-18T00:00:00.000Z",
+    "value": 24636.182656897337,
+    "created_time": "2023-12-12T02:00:05.722Z",
+    "updated_time": "2023-12-12T02:00:05.722Z"
+  },
+  {
+    "id": 114619,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-19T00:00:00.000Z",
+    "value": 24359.163469117113,
+    "created_time": "2023-12-12T02:00:05.730Z",
+    "updated_time": "2023-12-12T02:00:05.730Z"
+  },
+  {
+    "id": 114620,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-20T00:00:00.000Z",
+    "value": 24801.82540365762,
+    "created_time": "2023-12-12T02:00:05.739Z",
+    "updated_time": "2023-12-12T02:00:05.739Z"
+  },
+  {
+    "id": 114621,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-21T00:00:00.000Z",
+    "value": 24412.776676307418,
+    "created_time": "2023-12-12T02:00:05.747Z",
+    "updated_time": "2023-12-12T02:00:05.747Z"
+  },
+  {
+    "id": 114622,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-22T00:00:00.000Z",
+    "value": 24190.5007953479,
+    "created_time": "2023-12-12T02:00:05.753Z",
+    "updated_time": "2023-12-12T02:00:05.753Z"
+  },
+  {
+    "id": 114623,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-23T00:00:00.000Z",
+    "value": 23946.336654247774,
+    "created_time": "2023-12-12T02:00:05.761Z",
+    "updated_time": "2023-12-12T02:00:05.761Z"
+  },
+  {
+    "id": 114624,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-24T00:00:00.000Z",
+    "value": 23203.82540474613,
+    "created_time": "2023-12-12T02:00:05.768Z",
+    "updated_time": "2023-12-12T02:00:05.768Z"
+  },
+  {
+    "id": 114625,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-25T00:00:00.000Z",
+    "value": 23169.27307984902,
+    "created_time": "2023-12-12T02:00:05.774Z",
+    "updated_time": "2023-12-12T02:00:05.774Z"
+  },
+  {
+    "id": 114626,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-26T00:00:00.000Z",
+    "value": 23540.451272020735,
+    "created_time": "2023-12-12T02:00:05.780Z",
+    "updated_time": "2023-12-12T02:00:05.780Z"
+  },
+  {
+    "id": 114627,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-27T00:00:00.000Z",
+    "value": 23519.86397926934,
+    "created_time": "2023-12-12T02:00:05.786Z",
+    "updated_time": "2023-12-12T02:00:05.786Z"
+  },
+  {
+    "id": 114628,
+    "name": "btc_price_usd_close",
+    "time": "2023-02-28T00:00:00.000Z",
+    "value": 23159.353803700138,
+    "created_time": "2023-12-12T02:00:05.792Z",
+    "updated_time": "2023-12-12T02:00:05.792Z"
+  },
+  {
+    "id": 114629,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-01T00:00:00.000Z",
+    "value": 23652.749773776173,
+    "created_time": "2023-12-12T02:00:05.798Z",
+    "updated_time": "2023-12-12T02:00:05.798Z"
+  },
+  {
+    "id": 114630,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-02T00:00:00.000Z",
+    "value": 23479.32188706886,
+    "created_time": "2023-12-12T02:00:05.804Z",
+    "updated_time": "2023-12-12T02:00:05.804Z"
+  },
+  {
+    "id": 114631,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-03T00:00:00.000Z",
+    "value": 22359.217209688275,
+    "created_time": "2023-12-12T02:00:05.810Z",
+    "updated_time": "2023-12-12T02:00:05.810Z"
+  },
+  {
+    "id": 114632,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-04T00:00:00.000Z",
+    "value": 22347.343924232096,
+    "created_time": "2023-12-12T02:00:05.815Z",
+    "updated_time": "2023-12-12T02:00:05.815Z"
+  },
+  {
+    "id": 114633,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-05T00:00:00.000Z",
+    "value": 22442.474538898794,
+    "created_time": "2023-12-12T02:00:05.822Z",
+    "updated_time": "2023-12-12T02:00:05.822Z"
+  },
+  {
+    "id": 114634,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-06T00:00:00.000Z",
+    "value": 22428.676393518344,
+    "created_time": "2023-12-12T02:00:05.831Z",
+    "updated_time": "2023-12-12T02:00:05.831Z"
+  },
+  {
+    "id": 114635,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-07T00:00:00.000Z",
+    "value": 22221.313226919403,
+    "created_time": "2023-12-12T02:00:05.841Z",
+    "updated_time": "2023-12-12T02:00:05.841Z"
+  },
+  {
+    "id": 114636,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-08T00:00:00.000Z",
+    "value": 21723.276831259012,
+    "created_time": "2023-12-12T02:00:05.849Z",
+    "updated_time": "2023-12-12T02:00:05.849Z"
+  },
+  {
+    "id": 114637,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-09T00:00:00.000Z",
+    "value": 20370.74661110651,
+    "created_time": "2023-12-12T02:00:05.857Z",
+    "updated_time": "2023-12-12T02:00:05.857Z"
+  },
+  {
+    "id": 114638,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-10T00:00:00.000Z",
+    "value": 20176.78764593187,
+    "created_time": "2023-12-12T02:00:05.863Z",
+    "updated_time": "2023-12-12T02:00:05.863Z"
+  },
+  {
+    "id": 114639,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-11T00:00:00.000Z",
+    "value": 20663.89719135908,
+    "created_time": "2023-12-12T02:00:05.870Z",
+    "updated_time": "2023-12-12T02:00:05.870Z"
+  },
+  {
+    "id": 114640,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-12T00:00:00.000Z",
+    "value": 22123.742226945214,
+    "created_time": "2023-12-12T02:00:05.878Z",
+    "updated_time": "2023-12-12T02:00:05.878Z"
+  },
+  {
+    "id": 114641,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-13T00:00:00.000Z",
+    "value": 24156.667897069296,
+    "created_time": "2023-12-12T02:00:05.888Z",
+    "updated_time": "2023-12-12T02:00:05.888Z"
+  },
+  {
+    "id": 114642,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-14T00:00:00.000Z",
+    "value": 24781.78527959265,
+    "created_time": "2023-12-12T02:00:05.902Z",
+    "updated_time": "2023-12-12T02:00:05.902Z"
+  },
+  {
+    "id": 114643,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-15T00:00:00.000Z",
+    "value": 24377.294010428475,
+    "created_time": "2023-12-12T02:00:05.913Z",
+    "updated_time": "2023-12-12T02:00:05.913Z"
+  },
+  {
+    "id": 114644,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-16T00:00:00.000Z",
+    "value": 25050.149260649938,
+    "created_time": "2023-12-12T02:00:05.926Z",
+    "updated_time": "2023-12-12T02:00:05.926Z"
+  },
+  {
+    "id": 114645,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-17T00:00:00.000Z",
+    "value": 27399.951852648937,
+    "created_time": "2023-12-12T02:00:05.933Z",
+    "updated_time": "2023-12-12T02:00:05.933Z"
+  },
+  {
+    "id": 114646,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-18T00:00:00.000Z",
+    "value": 26954.365598303048,
+    "created_time": "2023-12-12T02:00:05.956Z",
+    "updated_time": "2023-12-12T02:00:05.956Z"
+  },
+  {
+    "id": 114647,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-19T00:00:00.000Z",
+    "value": 28101.0152763422,
+    "created_time": "2023-12-12T02:00:05.965Z",
+    "updated_time": "2023-12-12T02:00:05.965Z"
+  },
+  {
+    "id": 114648,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-20T00:00:00.000Z",
+    "value": 27716.68596411194,
+    "created_time": "2023-12-12T02:00:05.975Z",
+    "updated_time": "2023-12-12T02:00:05.975Z"
+  },
+  {
+    "id": 114649,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-21T00:00:00.000Z",
+    "value": 28151.325120805166,
+    "created_time": "2023-12-12T02:00:05.981Z",
+    "updated_time": "2023-12-12T02:00:05.981Z"
+  },
+  {
+    "id": 114650,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-22T00:00:00.000Z",
+    "value": 27328.397630955416,
+    "created_time": "2023-12-12T02:00:05.992Z",
+    "updated_time": "2023-12-12T02:00:05.992Z"
+  },
+  {
+    "id": 114651,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-23T00:00:00.000Z",
+    "value": 28335.162072349918,
+    "created_time": "2023-12-12T02:00:06.000Z",
+    "updated_time": "2023-12-12T02:00:06.000Z"
+  },
+  {
+    "id": 114652,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-24T00:00:00.000Z",
+    "value": 27446.942553907422,
+    "created_time": "2023-12-12T02:00:06.005Z",
+    "updated_time": "2023-12-12T02:00:06.005Z"
+  },
+  {
+    "id": 114653,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-25T00:00:00.000Z",
+    "value": 27488.802455098434,
+    "created_time": "2023-12-12T02:00:06.029Z",
+    "updated_time": "2023-12-12T02:00:06.029Z"
+  },
+  {
+    "id": 114654,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-26T00:00:00.000Z",
+    "value": 28013.827723292638,
+    "created_time": "2023-12-12T02:00:06.038Z",
+    "updated_time": "2023-12-12T02:00:06.038Z"
+  },
+  {
+    "id": 114655,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-27T00:00:00.000Z",
+    "value": 27158.49930246268,
+    "created_time": "2023-12-12T02:00:06.044Z",
+    "updated_time": "2023-12-12T02:00:06.044Z"
+  },
+  {
+    "id": 114656,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-28T00:00:00.000Z",
+    "value": 27270.262932972306,
+    "created_time": "2023-12-12T02:00:06.050Z",
+    "updated_time": "2023-12-12T02:00:06.050Z"
+  },
+  {
+    "id": 114657,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-29T00:00:00.000Z",
+    "value": 28349.63275109303,
+    "created_time": "2023-12-12T02:00:06.060Z",
+    "updated_time": "2023-12-12T02:00:06.060Z"
+  },
+  {
+    "id": 114658,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-30T00:00:00.000Z",
+    "value": 28021.210388332405,
+    "created_time": "2023-12-12T02:00:06.075Z",
+    "updated_time": "2023-12-12T02:00:06.075Z"
+  },
+  {
+    "id": 114659,
+    "name": "btc_price_usd_close",
+    "time": "2023-03-31T00:00:00.000Z",
+    "value": 28479.228718902847,
+    "created_time": "2023-12-12T02:00:06.082Z",
+    "updated_time": "2023-12-12T02:00:06.082Z"
+  },
+  {
+    "id": 114660,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-01T00:00:00.000Z",
+    "value": 28473.56837782141,
+    "created_time": "2023-12-12T02:00:06.089Z",
+    "updated_time": "2023-12-12T02:00:06.089Z"
+  },
+  {
+    "id": 114661,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-02T00:00:00.000Z",
+    "value": 28194.102231885154,
+    "created_time": "2023-12-12T02:00:06.102Z",
+    "updated_time": "2023-12-12T02:00:06.102Z"
+  },
+  {
+    "id": 114662,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-03T00:00:00.000Z",
+    "value": 27767.63785170151,
+    "created_time": "2023-12-12T02:00:06.111Z",
+    "updated_time": "2023-12-12T02:00:06.111Z"
+  },
+  {
+    "id": 114663,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-04T00:00:00.000Z",
+    "value": 28167.697403943024,
+    "created_time": "2023-12-12T02:00:06.117Z",
+    "updated_time": "2023-12-12T02:00:06.117Z"
+  },
+  {
+    "id": 114664,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-05T00:00:00.000Z",
+    "value": 28173.736291600682,
+    "created_time": "2023-12-12T02:00:06.123Z",
+    "updated_time": "2023-12-12T02:00:06.123Z"
+  },
+  {
+    "id": 114665,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-06T00:00:00.000Z",
+    "value": 28041.19753100738,
+    "created_time": "2023-12-12T02:00:06.139Z",
+    "updated_time": "2023-12-12T02:00:06.139Z"
+  },
+  {
+    "id": 114666,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-07T00:00:00.000Z",
+    "value": 27924.68058882831,
+    "created_time": "2023-12-12T02:00:06.153Z",
+    "updated_time": "2023-12-12T02:00:06.153Z"
+  },
+  {
+    "id": 114667,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-08T00:00:00.000Z",
+    "value": 27942.767665628813,
+    "created_time": "2023-12-12T02:00:06.163Z",
+    "updated_time": "2023-12-12T02:00:06.163Z"
+  },
+  {
+    "id": 114668,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-09T00:00:00.000Z",
+    "value": 28340.416853780815,
+    "created_time": "2023-12-12T02:00:06.170Z",
+    "updated_time": "2023-12-12T02:00:06.170Z"
+  },
+  {
+    "id": 114669,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-10T00:00:00.000Z",
+    "value": 29628.54437551461,
+    "created_time": "2023-12-12T02:00:06.177Z",
+    "updated_time": "2023-12-12T02:00:06.177Z"
+  },
+  {
+    "id": 114670,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-11T00:00:00.000Z",
+    "value": 30254.021967481985,
+    "created_time": "2023-12-12T02:00:06.188Z",
+    "updated_time": "2023-12-12T02:00:06.188Z"
+  },
+  {
+    "id": 114671,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-12T00:00:00.000Z",
+    "value": 29887.199958781384,
+    "created_time": "2023-12-12T02:00:06.195Z",
+    "updated_time": "2023-12-12T02:00:06.195Z"
+  },
+  {
+    "id": 114672,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-13T00:00:00.000Z",
+    "value": 30391.673895501157,
+    "created_time": "2023-12-12T02:00:06.202Z",
+    "updated_time": "2023-12-12T02:00:06.202Z"
+  },
+  {
+    "id": 114673,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-14T00:00:00.000Z",
+    "value": 30476.95173862477,
+    "created_time": "2023-12-12T02:00:06.209Z",
+    "updated_time": "2023-12-12T02:00:06.209Z"
+  },
+  {
+    "id": 114674,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-15T00:00:00.000Z",
+    "value": 30311.345451635145,
+    "created_time": "2023-12-12T02:00:06.219Z",
+    "updated_time": "2023-12-12T02:00:06.219Z"
+  },
+  {
+    "id": 114675,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-16T00:00:00.000Z",
+    "value": 30307.756522115076,
+    "created_time": "2023-12-12T02:00:06.229Z",
+    "updated_time": "2023-12-12T02:00:06.229Z"
+  },
+  {
+    "id": 114676,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-17T00:00:00.000Z",
+    "value": 29459.37964860508,
+    "created_time": "2023-12-12T02:00:06.235Z",
+    "updated_time": "2023-12-12T02:00:06.235Z"
+  },
+  {
+    "id": 114677,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-18T00:00:00.000Z",
+    "value": 30374.50558723556,
+    "created_time": "2023-12-12T02:00:06.243Z",
+    "updated_time": "2023-12-12T02:00:06.243Z"
+  },
+  {
+    "id": 114678,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-19T00:00:00.000Z",
+    "value": 28787.57627508887,
+    "created_time": "2023-12-12T02:00:06.251Z",
+    "updated_time": "2023-12-12T02:00:06.251Z"
+  },
+  {
+    "id": 114679,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-20T00:00:00.000Z",
+    "value": 28262.494090942444,
+    "created_time": "2023-12-12T02:00:06.257Z",
+    "updated_time": "2023-12-12T02:00:06.257Z"
+  },
+  {
+    "id": 114680,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-21T00:00:00.000Z",
+    "value": 27284.58168883573,
+    "created_time": "2023-12-12T02:00:06.263Z",
+    "updated_time": "2023-12-12T02:00:06.263Z"
+  },
+  {
+    "id": 114681,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-22T00:00:00.000Z",
+    "value": 27809.96300881529,
+    "created_time": "2023-12-12T02:00:06.270Z",
+    "updated_time": "2023-12-12T02:00:06.270Z"
+  },
+  {
+    "id": 114682,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-23T00:00:00.000Z",
+    "value": 27598.759708663023,
+    "created_time": "2023-12-12T02:00:06.276Z",
+    "updated_time": "2023-12-12T02:00:06.276Z"
+  },
+  {
+    "id": 114683,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-24T00:00:00.000Z",
+    "value": 27524.767020567222,
+    "created_time": "2023-12-12T02:00:06.287Z",
+    "updated_time": "2023-12-12T02:00:06.287Z"
+  },
+  {
+    "id": 114684,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-25T00:00:00.000Z",
+    "value": 28336.037969616555,
+    "created_time": "2023-12-12T02:00:06.294Z",
+    "updated_time": "2023-12-12T02:00:06.294Z"
+  },
+  {
+    "id": 114685,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-26T00:00:00.000Z",
+    "value": 28377.978077009207,
+    "created_time": "2023-12-12T02:00:06.302Z",
+    "updated_time": "2023-12-12T02:00:06.302Z"
+  },
+  {
+    "id": 114686,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-27T00:00:00.000Z",
+    "value": 29474.46553214314,
+    "created_time": "2023-12-12T02:00:06.311Z",
+    "updated_time": "2023-12-12T02:00:06.311Z"
+  },
+  {
+    "id": 114687,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-28T00:00:00.000Z",
+    "value": 29357.33431409007,
+    "created_time": "2023-12-12T02:00:06.319Z",
+    "updated_time": "2023-12-12T02:00:06.319Z"
+  },
+  {
+    "id": 114688,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-29T00:00:00.000Z",
+    "value": 29231.586577884973,
+    "created_time": "2023-12-12T02:00:06.330Z",
+    "updated_time": "2023-12-12T02:00:06.330Z"
+  },
+  {
+    "id": 114689,
+    "name": "btc_price_usd_close",
+    "time": "2023-04-30T00:00:00.000Z",
+    "value": 29325.839942609797,
+    "created_time": "2023-12-12T02:00:06.339Z",
+    "updated_time": "2023-12-12T02:00:06.339Z"
+  },
+  {
+    "id": 114690,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-01T00:00:00.000Z",
+    "value": 28095.04191635984,
+    "created_time": "2023-12-12T02:00:06.348Z",
+    "updated_time": "2023-12-12T02:00:06.348Z"
+  },
+  {
+    "id": 114691,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-02T00:00:00.000Z",
+    "value": 28648.368858135924,
+    "created_time": "2023-12-12T02:00:06.354Z",
+    "updated_time": "2023-12-12T02:00:06.354Z"
+  },
+  {
+    "id": 114692,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-03T00:00:00.000Z",
+    "value": 29007.545886281336,
+    "created_time": "2023-12-12T02:00:06.360Z",
+    "updated_time": "2023-12-12T02:00:06.360Z"
+  },
+  {
+    "id": 114693,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-04T00:00:00.000Z",
+    "value": 28844.32301675311,
+    "created_time": "2023-12-12T02:00:06.366Z",
+    "updated_time": "2023-12-12T02:00:06.366Z"
+  },
+  {
+    "id": 114694,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-05T00:00:00.000Z",
+    "value": 29524.609260071302,
+    "created_time": "2023-12-12T02:00:06.378Z",
+    "updated_time": "2023-12-12T02:00:06.378Z"
+  },
+  {
+    "id": 114695,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-06T00:00:00.000Z",
+    "value": 28917.360787434176,
+    "created_time": "2023-12-12T02:00:06.384Z",
+    "updated_time": "2023-12-12T02:00:06.384Z"
+  },
+  {
+    "id": 114696,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-07T00:00:00.000Z",
+    "value": 28441.368038323788,
+    "created_time": "2023-12-12T02:00:06.390Z",
+    "updated_time": "2023-12-12T02:00:06.390Z"
+  },
+  {
+    "id": 114697,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-08T00:00:00.000Z",
+    "value": 27716.36726269018,
+    "created_time": "2023-12-12T02:00:06.399Z",
+    "updated_time": "2023-12-12T02:00:06.399Z"
+  },
+  {
+    "id": 114698,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-09T00:00:00.000Z",
+    "value": 27652.946629825146,
+    "created_time": "2023-12-12T02:00:06.408Z",
+    "updated_time": "2023-12-12T02:00:06.408Z"
+  },
+  {
+    "id": 114699,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-10T00:00:00.000Z",
+    "value": 27611.858126547642,
+    "created_time": "2023-12-12T02:00:06.414Z",
+    "updated_time": "2023-12-12T02:00:06.414Z"
+  },
+  {
+    "id": 114700,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-11T00:00:00.000Z",
+    "value": 27002.493000172744,
+    "created_time": "2023-12-12T02:00:06.424Z",
+    "updated_time": "2023-12-12T02:00:06.424Z"
+  },
+  {
+    "id": 114701,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-12T00:00:00.000Z",
+    "value": 26817.235476950114,
+    "created_time": "2023-12-12T02:00:06.430Z",
+    "updated_time": "2023-12-12T02:00:06.430Z"
+  },
+  {
+    "id": 114702,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-13T00:00:00.000Z",
+    "value": 26803.493662934154,
+    "created_time": "2023-12-12T02:00:06.437Z",
+    "updated_time": "2023-12-12T02:00:06.437Z"
+  },
+  {
+    "id": 114703,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-14T00:00:00.000Z",
+    "value": 26916.442275472484,
+    "created_time": "2023-12-12T02:00:06.443Z",
+    "updated_time": "2023-12-12T02:00:06.443Z"
+  },
+  {
+    "id": 114704,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-15T00:00:00.000Z",
+    "value": 27197.153592811548,
+    "created_time": "2023-12-12T02:00:06.449Z",
+    "updated_time": "2023-12-12T02:00:06.449Z"
+  },
+  {
+    "id": 114705,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-16T00:00:00.000Z",
+    "value": 27028.621511356065,
+    "created_time": "2023-12-12T02:00:06.455Z",
+    "updated_time": "2023-12-12T02:00:06.455Z"
+  },
+  {
+    "id": 114706,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-17T00:00:00.000Z",
+    "value": 27402.01958000473,
+    "created_time": "2023-12-12T02:00:06.462Z",
+    "updated_time": "2023-12-12T02:00:06.462Z"
+  },
+  {
+    "id": 114707,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-18T00:00:00.000Z",
+    "value": 26834.61274945016,
+    "created_time": "2023-12-12T02:00:06.468Z",
+    "updated_time": "2023-12-12T02:00:06.468Z"
+  },
+  {
+    "id": 114708,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-19T00:00:00.000Z",
+    "value": 26876.99632127679,
+    "created_time": "2023-12-12T02:00:06.474Z",
+    "updated_time": "2023-12-12T02:00:06.474Z"
+  },
+  {
+    "id": 114709,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-20T00:00:00.000Z",
+    "value": 27123.23025846794,
+    "created_time": "2023-12-12T02:00:06.484Z",
+    "updated_time": "2023-12-12T02:00:06.484Z"
+  },
+  {
+    "id": 114710,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-21T00:00:00.000Z",
+    "value": 26754.833172103663,
+    "created_time": "2023-12-12T02:00:06.490Z",
+    "updated_time": "2023-12-12T02:00:06.490Z"
+  },
+  {
+    "id": 114711,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-22T00:00:00.000Z",
+    "value": 26854.945819255605,
+    "created_time": "2023-12-12T02:00:06.497Z",
+    "updated_time": "2023-12-12T02:00:06.497Z"
+  },
+  {
+    "id": 114712,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-23T00:00:00.000Z",
+    "value": 27222.424868350903,
+    "created_time": "2023-12-12T02:00:06.503Z",
+    "updated_time": "2023-12-12T02:00:06.503Z"
+  },
+  {
+    "id": 114713,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-24T00:00:00.000Z",
+    "value": 26342.006519090177,
+    "created_time": "2023-12-12T02:00:06.509Z",
+    "updated_time": "2023-12-12T02:00:06.509Z"
+  },
+  {
+    "id": 114714,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-25T00:00:00.000Z",
+    "value": 26477.09720314349,
+    "created_time": "2023-12-12T02:00:06.516Z",
+    "updated_time": "2023-12-12T02:00:06.516Z"
+  },
+  {
+    "id": 114715,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-26T00:00:00.000Z",
+    "value": 26719.11654816123,
+    "created_time": "2023-12-12T02:00:06.522Z",
+    "updated_time": "2023-12-12T02:00:06.522Z"
+  },
+  {
+    "id": 114716,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-27T00:00:00.000Z",
+    "value": 26868.22841128472,
+    "created_time": "2023-12-12T02:00:06.532Z",
+    "updated_time": "2023-12-12T02:00:06.532Z"
+  },
+  {
+    "id": 114717,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-28T00:00:00.000Z",
+    "value": 28107.05501166292,
+    "created_time": "2023-12-12T02:00:06.551Z",
+    "updated_time": "2023-12-12T02:00:06.551Z"
+  },
+  {
+    "id": 114718,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-29T00:00:00.000Z",
+    "value": 27753.18340888466,
+    "created_time": "2023-12-12T02:00:06.561Z",
+    "updated_time": "2023-12-12T02:00:06.561Z"
+  },
+  {
+    "id": 114719,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-30T00:00:00.000Z",
+    "value": 27705.13798975791,
+    "created_time": "2023-12-12T02:00:06.575Z",
+    "updated_time": "2023-12-12T02:00:06.575Z"
+  },
+  {
+    "id": 114720,
+    "name": "btc_price_usd_close",
+    "time": "2023-05-31T00:00:00.000Z",
+    "value": 27228.568804595274,
+    "created_time": "2023-12-12T02:00:06.585Z",
+    "updated_time": "2023-12-12T02:00:06.585Z"
+  },
+  {
+    "id": 114721,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-01T00:00:00.000Z",
+    "value": 26816.713027740294,
+    "created_time": "2023-12-12T02:00:06.593Z",
+    "updated_time": "2023-12-12T02:00:06.593Z"
+  },
+  {
+    "id": 114722,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-02T00:00:00.000Z",
+    "value": 27247.550684674574,
+    "created_time": "2023-12-12T02:00:06.600Z",
+    "updated_time": "2023-12-12T02:00:06.600Z"
+  },
+  {
+    "id": 114723,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-03T00:00:00.000Z",
+    "value": 27066.7495139147,
+    "created_time": "2023-12-12T02:00:06.606Z",
+    "updated_time": "2023-12-12T02:00:06.606Z"
+  },
+  {
+    "id": 114724,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-04T00:00:00.000Z",
+    "value": 27100.67253528046,
+    "created_time": "2023-12-12T02:00:06.617Z",
+    "updated_time": "2023-12-12T02:00:06.617Z"
+  },
+  {
+    "id": 114725,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-05T00:00:00.000Z",
+    "value": 25770.957102030523,
+    "created_time": "2023-12-12T02:00:06.624Z",
+    "updated_time": "2023-12-12T02:00:06.624Z"
+  },
+  {
+    "id": 114726,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-06T00:00:00.000Z",
+    "value": 27208.730403482336,
+    "created_time": "2023-12-12T02:00:06.630Z",
+    "updated_time": "2023-12-12T02:00:06.630Z"
+  },
+  {
+    "id": 114727,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-07T00:00:00.000Z",
+    "value": 26354.280004989407,
+    "created_time": "2023-12-12T02:00:06.638Z",
+    "updated_time": "2023-12-12T02:00:06.638Z"
+  },
+  {
+    "id": 114728,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-08T00:00:00.000Z",
+    "value": 26518.652024648498,
+    "created_time": "2023-12-12T02:00:06.644Z",
+    "updated_time": "2023-12-12T02:00:06.644Z"
+  },
+  {
+    "id": 114729,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-09T00:00:00.000Z",
+    "value": 26488.60896191271,
+    "created_time": "2023-12-12T02:00:06.650Z",
+    "updated_time": "2023-12-12T02:00:06.650Z"
+  },
+  {
+    "id": 114730,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-10T00:00:00.000Z",
+    "value": 25862.006390844374,
+    "created_time": "2023-12-12T02:00:06.657Z",
+    "updated_time": "2023-12-12T02:00:06.657Z"
+  },
+  {
+    "id": 114731,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-11T00:00:00.000Z",
+    "value": 25917.197734457386,
+    "created_time": "2023-12-12T02:00:06.664Z",
+    "updated_time": "2023-12-12T02:00:06.664Z"
+  },
+  {
+    "id": 114732,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-12T00:00:00.000Z",
+    "value": 25898.42298195509,
+    "created_time": "2023-12-12T02:00:06.670Z",
+    "updated_time": "2023-12-12T02:00:06.670Z"
+  },
+  {
+    "id": 114733,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-13T00:00:00.000Z",
+    "value": 25897.153585558786,
+    "created_time": "2023-12-12T02:00:06.676Z",
+    "updated_time": "2023-12-12T02:00:06.676Z"
+  },
+  {
+    "id": 114734,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-14T00:00:00.000Z",
+    "value": 25122.962560064232,
+    "created_time": "2023-12-12T02:00:06.682Z",
+    "updated_time": "2023-12-12T02:00:06.682Z"
+  },
+  {
+    "id": 114735,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-15T00:00:00.000Z",
+    "value": 25565.913416730844,
+    "created_time": "2023-12-12T02:00:06.688Z",
+    "updated_time": "2023-12-12T02:00:06.688Z"
+  },
+  {
+    "id": 114736,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-16T00:00:00.000Z",
+    "value": 26322.863966129666,
+    "created_time": "2023-12-12T02:00:06.696Z",
+    "updated_time": "2023-12-12T02:00:06.696Z"
+  },
+  {
+    "id": 114737,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-17T00:00:00.000Z",
+    "value": 26517.594549064645,
+    "created_time": "2023-12-12T02:00:06.702Z",
+    "updated_time": "2023-12-12T02:00:06.702Z"
+  },
+  {
+    "id": 114738,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-18T00:00:00.000Z",
+    "value": 26325.890181020062,
+    "created_time": "2023-12-12T02:00:06.709Z",
+    "updated_time": "2023-12-12T02:00:06.709Z"
+  },
+  {
+    "id": 114739,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-19T00:00:00.000Z",
+    "value": 26783.247196944085,
+    "created_time": "2023-12-12T02:00:06.717Z",
+    "updated_time": "2023-12-12T02:00:06.717Z"
+  },
+  {
+    "id": 114740,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-20T00:00:00.000Z",
+    "value": 28363.135028314235,
+    "created_time": "2023-12-12T02:00:06.724Z",
+    "updated_time": "2023-12-12T02:00:06.724Z"
+  },
+  {
+    "id": 114741,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-21T00:00:00.000Z",
+    "value": 30038.519709239063,
+    "created_time": "2023-12-12T02:00:06.730Z",
+    "updated_time": "2023-12-12T02:00:06.730Z"
+  },
+  {
+    "id": 114742,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-22T00:00:00.000Z",
+    "value": 29915.44030512156,
+    "created_time": "2023-12-12T02:00:06.736Z",
+    "updated_time": "2023-12-12T02:00:06.736Z"
+  },
+  {
+    "id": 114743,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-23T00:00:00.000Z",
+    "value": 30622.93364729128,
+    "created_time": "2023-12-12T02:00:06.746Z",
+    "updated_time": "2023-12-12T02:00:06.746Z"
+  },
+  {
+    "id": 114744,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-24T00:00:00.000Z",
+    "value": 30542.42425169211,
+    "created_time": "2023-12-12T02:00:06.753Z",
+    "updated_time": "2023-12-12T02:00:06.753Z"
+  },
+  {
+    "id": 114745,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-25T00:00:00.000Z",
+    "value": 30464.376844249182,
+    "created_time": "2023-12-12T02:00:06.760Z",
+    "updated_time": "2023-12-12T02:00:06.760Z"
+  },
+  {
+    "id": 114746,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-26T00:00:00.000Z",
+    "value": 30286.01992715319,
+    "created_time": "2023-12-12T02:00:06.766Z",
+    "updated_time": "2023-12-12T02:00:06.766Z"
+  },
+  {
+    "id": 114747,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-27T00:00:00.000Z",
+    "value": 30725.454353484343,
+    "created_time": "2023-12-12T02:00:06.780Z",
+    "updated_time": "2023-12-12T02:00:06.780Z"
+  },
+  {
+    "id": 114748,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-28T00:00:00.000Z",
+    "value": 30091.639756842567,
+    "created_time": "2023-12-12T02:00:06.786Z",
+    "updated_time": "2023-12-12T02:00:06.786Z"
+  },
+  {
+    "id": 114749,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-29T00:00:00.000Z",
+    "value": 30458.25082527999,
+    "created_time": "2023-12-12T02:00:06.792Z",
+    "updated_time": "2023-12-12T02:00:06.792Z"
+  },
+  {
+    "id": 114750,
+    "name": "btc_price_usd_close",
+    "time": "2023-06-30T00:00:00.000Z",
+    "value": 30490.79151531946,
+    "created_time": "2023-12-12T02:00:06.799Z",
+    "updated_time": "2023-12-12T02:00:06.799Z"
+  },
+  {
+    "id": 114751,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-01T00:00:00.000Z",
+    "value": 30586.162609388637,
+    "created_time": "2023-12-12T02:00:06.806Z",
+    "updated_time": "2023-12-12T02:00:06.806Z"
+  },
+  {
+    "id": 114752,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-02T00:00:00.000Z",
+    "value": 30622.236997230142,
+    "created_time": "2023-12-12T02:00:06.818Z",
+    "updated_time": "2023-12-12T02:00:06.818Z"
+  },
+  {
+    "id": 114753,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-03T00:00:00.000Z",
+    "value": 31152.71345099531,
+    "created_time": "2023-12-12T02:00:06.826Z",
+    "updated_time": "2023-12-12T02:00:06.826Z"
+  },
+  {
+    "id": 114754,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-04T00:00:00.000Z",
+    "value": 30791.354325502583,
+    "created_time": "2023-12-12T02:00:06.832Z",
+    "updated_time": "2023-12-12T02:00:06.832Z"
+  },
+  {
+    "id": 114755,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-05T00:00:00.000Z",
+    "value": 30501.977712828342,
+    "created_time": "2023-12-12T02:00:06.841Z",
+    "updated_time": "2023-12-12T02:00:06.841Z"
+  },
+  {
+    "id": 114756,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-06T00:00:00.000Z",
+    "value": 29995.78929501398,
+    "created_time": "2023-12-12T02:00:06.847Z",
+    "updated_time": "2023-12-12T02:00:06.847Z"
+  },
+  {
+    "id": 114757,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-07T00:00:00.000Z",
+    "value": 30321.16437340287,
+    "created_time": "2023-12-12T02:00:06.853Z",
+    "updated_time": "2023-12-12T02:00:06.853Z"
+  },
+  {
+    "id": 114758,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-08T00:00:00.000Z",
+    "value": 30270.047123742435,
+    "created_time": "2023-12-12T02:00:06.860Z",
+    "updated_time": "2023-12-12T02:00:06.860Z"
+  },
+  {
+    "id": 114759,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-09T00:00:00.000Z",
+    "value": 30177.561426355973,
+    "created_time": "2023-12-12T02:00:06.867Z",
+    "updated_time": "2023-12-12T02:00:06.867Z"
+  },
+  {
+    "id": 114760,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-10T00:00:00.000Z",
+    "value": 30399.567625261745,
+    "created_time": "2023-12-12T02:00:06.877Z",
+    "updated_time": "2023-12-12T02:00:06.877Z"
+  },
+  {
+    "id": 114761,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-11T00:00:00.000Z",
+    "value": 30625.232132437995,
+    "created_time": "2023-12-12T02:00:06.887Z",
+    "updated_time": "2023-12-12T02:00:06.887Z"
+  },
+  {
+    "id": 114762,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-12T00:00:00.000Z",
+    "value": 30386.18488430355,
+    "created_time": "2023-12-12T02:00:06.893Z",
+    "updated_time": "2023-12-12T02:00:06.893Z"
+  },
+  {
+    "id": 114763,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-13T00:00:00.000Z",
+    "value": 31454.38545802463,
+    "created_time": "2023-12-12T02:00:06.901Z",
+    "updated_time": "2023-12-12T02:00:06.901Z"
+  },
+  {
+    "id": 114764,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-14T00:00:00.000Z",
+    "value": 30326.141483997275,
+    "created_time": "2023-12-12T02:00:06.908Z",
+    "updated_time": "2023-12-12T02:00:06.908Z"
+  },
+  {
+    "id": 114765,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-15T00:00:00.000Z",
+    "value": 30291.10855315059,
+    "created_time": "2023-12-12T02:00:06.915Z",
+    "updated_time": "2023-12-12T02:00:06.915Z"
+  },
+  {
+    "id": 114766,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-16T00:00:00.000Z",
+    "value": 30232.865942206074,
+    "created_time": "2023-12-12T02:00:06.922Z",
+    "updated_time": "2023-12-12T02:00:06.922Z"
+  },
+  {
+    "id": 114767,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-17T00:00:00.000Z",
+    "value": 30160.64713176639,
+    "created_time": "2023-12-12T02:00:06.928Z",
+    "updated_time": "2023-12-12T02:00:06.928Z"
+  },
+  {
+    "id": 114768,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-18T00:00:00.000Z",
+    "value": 29854.16162945489,
+    "created_time": "2023-12-12T02:00:06.945Z",
+    "updated_time": "2023-12-12T02:00:06.945Z"
+  },
+  {
+    "id": 114769,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-19T00:00:00.000Z",
+    "value": 29928.062633779253,
+    "created_time": "2023-12-12T02:00:06.953Z",
+    "updated_time": "2023-12-12T02:00:06.953Z"
+  },
+  {
+    "id": 114770,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-20T00:00:00.000Z",
+    "value": 29795.75093290666,
+    "created_time": "2023-12-12T02:00:06.960Z",
+    "updated_time": "2023-12-12T02:00:06.960Z"
+  },
+  {
+    "id": 114771,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-21T00:00:00.000Z",
+    "value": 29918.062245160505,
+    "created_time": "2023-12-12T02:00:06.966Z",
+    "updated_time": "2023-12-12T02:00:06.966Z"
+  },
+  {
+    "id": 114772,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-22T00:00:00.000Z",
+    "value": 29748.925990767475,
+    "created_time": "2023-12-12T02:00:06.972Z",
+    "updated_time": "2023-12-12T02:00:06.972Z"
+  },
+  {
+    "id": 114773,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-23T00:00:00.000Z",
+    "value": 30058.58125631577,
+    "created_time": "2023-12-12T02:00:06.978Z",
+    "updated_time": "2023-12-12T02:00:06.978Z"
+  },
+  {
+    "id": 114774,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-24T00:00:00.000Z",
+    "value": 29181.39279934082,
+    "created_time": "2023-12-12T02:00:06.987Z",
+    "updated_time": "2023-12-12T02:00:06.987Z"
+  },
+  {
+    "id": 114775,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-25T00:00:00.000Z",
+    "value": 29242.270071832383,
+    "created_time": "2023-12-12T02:00:06.995Z",
+    "updated_time": "2023-12-12T02:00:06.995Z"
+  },
+  {
+    "id": 114776,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-26T00:00:00.000Z",
+    "value": 29339.2283738779,
+    "created_time": "2023-12-12T02:00:07.002Z",
+    "updated_time": "2023-12-12T02:00:07.002Z"
+  },
+  {
+    "id": 114777,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-27T00:00:00.000Z",
+    "value": 29204.350222111545,
+    "created_time": "2023-12-12T02:00:07.009Z",
+    "updated_time": "2023-12-12T02:00:07.009Z"
+  },
+  {
+    "id": 114778,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-28T00:00:00.000Z",
+    "value": 29320.936348486426,
+    "created_time": "2023-12-12T02:00:07.020Z",
+    "updated_time": "2023-12-12T02:00:07.020Z"
+  },
+  {
+    "id": 114779,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-29T00:00:00.000Z",
+    "value": 29359.272680810667,
+    "created_time": "2023-12-12T02:00:07.027Z",
+    "updated_time": "2023-12-12T02:00:07.027Z"
+  },
+  {
+    "id": 114780,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-30T00:00:00.000Z",
+    "value": 29275.10910622398,
+    "created_time": "2023-12-12T02:00:07.038Z",
+    "updated_time": "2023-12-12T02:00:07.038Z"
+  },
+  {
+    "id": 114781,
+    "name": "btc_price_usd_close",
+    "time": "2023-07-31T00:00:00.000Z",
+    "value": 29229.676628312478,
+    "created_time": "2023-12-12T02:00:07.044Z",
+    "updated_time": "2023-12-12T02:00:07.044Z"
+  },
+  {
+    "id": 114782,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-01T00:00:00.000Z",
+    "value": 29668.578113968357,
+    "created_time": "2023-12-12T02:00:07.050Z",
+    "updated_time": "2023-12-12T02:00:07.050Z"
+  },
+  {
+    "id": 114783,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-02T00:00:00.000Z",
+    "value": 29150.178200398568,
+    "created_time": "2023-12-12T02:00:07.057Z",
+    "updated_time": "2023-12-12T02:00:07.057Z"
+  },
+  {
+    "id": 114784,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-03T00:00:00.000Z",
+    "value": 29175.816355589963,
+    "created_time": "2023-12-12T02:00:07.063Z",
+    "updated_time": "2023-12-12T02:00:07.063Z"
+  },
+  {
+    "id": 114785,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-04T00:00:00.000Z",
+    "value": 29074.55254832058,
+    "created_time": "2023-12-12T02:00:07.072Z",
+    "updated_time": "2023-12-12T02:00:07.072Z"
+  },
+  {
+    "id": 114786,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-05T00:00:00.000Z",
+    "value": 29045.616254230372,
+    "created_time": "2023-12-12T02:00:07.079Z",
+    "updated_time": "2023-12-12T02:00:07.079Z"
+  },
+  {
+    "id": 114787,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-06T00:00:00.000Z",
+    "value": 29042.04802116779,
+    "created_time": "2023-12-12T02:00:07.085Z",
+    "updated_time": "2023-12-12T02:00:07.085Z"
+  },
+  {
+    "id": 114788,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-07T00:00:00.000Z",
+    "value": 29179.454872828293,
+    "created_time": "2023-12-12T02:00:07.091Z",
+    "updated_time": "2023-12-12T02:00:07.091Z"
+  },
+  {
+    "id": 114789,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-08T00:00:00.000Z",
+    "value": 29763.239718571713,
+    "created_time": "2023-12-12T02:00:07.098Z",
+    "updated_time": "2023-12-12T02:00:07.098Z"
+  },
+  {
+    "id": 114790,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-09T00:00:00.000Z",
+    "value": 29578.60473505506,
+    "created_time": "2023-12-12T02:00:07.104Z",
+    "updated_time": "2023-12-12T02:00:07.104Z"
+  },
+  {
+    "id": 114791,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-10T00:00:00.000Z",
+    "value": 29437.842638449863,
+    "created_time": "2023-12-12T02:00:07.111Z",
+    "updated_time": "2023-12-12T02:00:07.111Z"
+  },
+  {
+    "id": 114792,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-11T00:00:00.000Z",
+    "value": 29401.40285882531,
+    "created_time": "2023-12-12T02:00:07.117Z",
+    "updated_time": "2023-12-12T02:00:07.117Z"
+  },
+  {
+    "id": 114793,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-12T00:00:00.000Z",
+    "value": 29416.320952191803,
+    "created_time": "2023-12-12T02:00:07.124Z",
+    "updated_time": "2023-12-12T02:00:07.124Z"
+  },
+  {
+    "id": 114794,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-13T00:00:00.000Z",
+    "value": 29283.43307637891,
+    "created_time": "2023-12-12T02:00:07.129Z",
+    "updated_time": "2023-12-12T02:00:07.129Z"
+  },
+  {
+    "id": 114795,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-14T00:00:00.000Z",
+    "value": 29412.662963212904,
+    "created_time": "2023-12-12T02:00:07.137Z",
+    "updated_time": "2023-12-12T02:00:07.137Z"
+  },
+  {
+    "id": 114796,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-15T00:00:00.000Z",
+    "value": 29168.939310289417,
+    "created_time": "2023-12-12T02:00:07.144Z",
+    "updated_time": "2023-12-12T02:00:07.144Z"
+  },
+  {
+    "id": 114797,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-16T00:00:00.000Z",
+    "value": 28716.95567567704,
+    "created_time": "2023-12-12T02:00:07.150Z",
+    "updated_time": "2023-12-12T02:00:07.150Z"
+  },
+  {
+    "id": 114798,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-17T00:00:00.000Z",
+    "value": 26641.149017583273,
+    "created_time": "2023-12-12T02:00:07.157Z",
+    "updated_time": "2023-12-12T02:00:07.157Z"
+  },
+  {
+    "id": 114799,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-18T00:00:00.000Z",
+    "value": 26047.655701857013,
+    "created_time": "2023-12-12T02:00:07.164Z",
+    "updated_time": "2023-12-12T02:00:07.164Z"
+  },
+  {
+    "id": 114800,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-19T00:00:00.000Z",
+    "value": 26087.668151379323,
+    "created_time": "2023-12-12T02:00:07.170Z",
+    "updated_time": "2023-12-12T02:00:07.170Z"
+  },
+  {
+    "id": 114801,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-20T00:00:00.000Z",
+    "value": 26188.294015057727,
+    "created_time": "2023-12-12T02:00:07.177Z",
+    "updated_time": "2023-12-12T02:00:07.177Z"
+  },
+  {
+    "id": 114802,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-21T00:00:00.000Z",
+    "value": 26119.686599780398,
+    "created_time": "2023-12-12T02:00:07.183Z",
+    "updated_time": "2023-12-12T02:00:07.183Z"
+  },
+  {
+    "id": 114803,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-22T00:00:00.000Z",
+    "value": 26023.458488996606,
+    "created_time": "2023-12-12T02:00:07.189Z",
+    "updated_time": "2023-12-12T02:00:07.189Z"
+  },
+  {
+    "id": 114804,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-23T00:00:00.000Z",
+    "value": 26424.425885267043,
+    "created_time": "2023-12-12T02:00:07.203Z",
+    "updated_time": "2023-12-12T02:00:07.203Z"
+  },
+  {
+    "id": 114805,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-24T00:00:00.000Z",
+    "value": 26139.04009454925,
+    "created_time": "2023-12-12T02:00:07.209Z",
+    "updated_time": "2023-12-12T02:00:07.209Z"
+  },
+  {
+    "id": 114806,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-25T00:00:00.000Z",
+    "value": 26051.027696278252,
+    "created_time": "2023-12-12T02:00:07.216Z",
+    "updated_time": "2023-12-12T02:00:07.216Z"
+  },
+  {
+    "id": 114807,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-26T00:00:00.000Z",
+    "value": 26006.671536422888,
+    "created_time": "2023-12-12T02:00:07.223Z",
+    "updated_time": "2023-12-12T02:00:07.223Z"
+  },
+  {
+    "id": 114808,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-27T00:00:00.000Z",
+    "value": 26087.225224087328,
+    "created_time": "2023-12-12T02:00:07.239Z",
+    "updated_time": "2023-12-12T02:00:07.239Z"
+  },
+  {
+    "id": 114809,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-28T00:00:00.000Z",
+    "value": 26108.558274788975,
+    "created_time": "2023-12-12T02:00:07.244Z",
+    "updated_time": "2023-12-12T02:00:07.244Z"
+  },
+  {
+    "id": 114810,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-29T00:00:00.000Z",
+    "value": 27722.85715062194,
+    "created_time": "2023-12-12T02:00:07.251Z",
+    "updated_time": "2023-12-12T02:00:07.251Z"
+  },
+  {
+    "id": 114811,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-30T00:00:00.000Z",
+    "value": 27301.802992845187,
+    "created_time": "2023-12-12T02:00:07.258Z",
+    "updated_time": "2023-12-12T02:00:07.258Z"
+  },
+  {
+    "id": 114812,
+    "name": "btc_price_usd_close",
+    "time": "2023-08-31T00:00:00.000Z",
+    "value": 25929.8273633107,
+    "created_time": "2023-12-12T02:00:07.264Z",
+    "updated_time": "2023-12-12T02:00:07.264Z"
+  },
+  {
+    "id": 114813,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-01T00:00:00.000Z",
+    "value": 25802.67758142681,
+    "created_time": "2023-12-12T02:00:07.270Z",
+    "updated_time": "2023-12-12T02:00:07.270Z"
+  },
+  {
+    "id": 114814,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-02T00:00:00.000Z",
+    "value": 25862.66214030542,
+    "created_time": "2023-12-12T02:00:07.278Z",
+    "updated_time": "2023-12-12T02:00:07.278Z"
+  },
+  {
+    "id": 114815,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-03T00:00:00.000Z",
+    "value": 25971.119276963313,
+    "created_time": "2023-12-12T02:00:07.284Z",
+    "updated_time": "2023-12-12T02:00:07.284Z"
+  },
+  {
+    "id": 114816,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-04T00:00:00.000Z",
+    "value": 25818.20041658717,
+    "created_time": "2023-12-12T02:00:07.290Z",
+    "updated_time": "2023-12-12T02:00:07.290Z"
+  },
+  {
+    "id": 114817,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-05T00:00:00.000Z",
+    "value": 25776.093195492627,
+    "created_time": "2023-12-12T02:00:07.296Z",
+    "updated_time": "2023-12-12T02:00:07.296Z"
+  },
+  {
+    "id": 114818,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-06T00:00:00.000Z",
+    "value": 25755.84492577595,
+    "created_time": "2023-12-12T02:00:07.303Z",
+    "updated_time": "2023-12-12T02:00:07.303Z"
+  },
+  {
+    "id": 114819,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-07T00:00:00.000Z",
+    "value": 26215.697676473963,
+    "created_time": "2023-12-12T02:00:07.310Z",
+    "updated_time": "2023-12-12T02:00:07.310Z"
+  },
+  {
+    "id": 114820,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-08T00:00:00.000Z",
+    "value": 25903.455817156737,
+    "created_time": "2023-12-12T02:00:07.316Z",
+    "updated_time": "2023-12-12T02:00:07.316Z"
+  },
+  {
+    "id": 114821,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-09T00:00:00.000Z",
+    "value": 25894.371678926407,
+    "created_time": "2023-12-12T02:00:07.324Z",
+    "updated_time": "2023-12-12T02:00:07.324Z"
+  },
+  {
+    "id": 114822,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-10T00:00:00.000Z",
+    "value": 25841.89153717815,
+    "created_time": "2023-12-12T02:00:07.334Z",
+    "updated_time": "2023-12-12T02:00:07.334Z"
+  },
+  {
+    "id": 114823,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-11T00:00:00.000Z",
+    "value": 25131.853610748836,
+    "created_time": "2023-12-12T02:00:07.341Z",
+    "updated_time": "2023-12-12T02:00:07.341Z"
+  },
+  {
+    "id": 114824,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-12T00:00:00.000Z",
+    "value": 25851.238275387826,
+    "created_time": "2023-12-12T02:00:07.358Z",
+    "updated_time": "2023-12-12T02:00:07.358Z"
+  },
+  {
+    "id": 114825,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-13T00:00:00.000Z",
+    "value": 26230.41129600612,
+    "created_time": "2023-12-12T02:00:07.364Z",
+    "updated_time": "2023-12-12T02:00:07.364Z"
+  },
+  {
+    "id": 114826,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-14T00:00:00.000Z",
+    "value": 26536.08220778043,
+    "created_time": "2023-12-12T02:00:07.370Z",
+    "updated_time": "2023-12-12T02:00:07.370Z"
+  },
+  {
+    "id": 114827,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-15T00:00:00.000Z",
+    "value": 26647.223409797887,
+    "created_time": "2023-12-12T02:00:07.376Z",
+    "updated_time": "2023-12-12T02:00:07.376Z"
+  },
+  {
+    "id": 114828,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-16T00:00:00.000Z",
+    "value": 26560.681826478944,
+    "created_time": "2023-12-12T02:00:07.383Z",
+    "updated_time": "2023-12-12T02:00:07.383Z"
+  },
+  {
+    "id": 114829,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-17T00:00:00.000Z",
+    "value": 26527.935573605875,
+    "created_time": "2023-12-12T02:00:07.389Z",
+    "updated_time": "2023-12-12T02:00:07.389Z"
+  },
+  {
+    "id": 114830,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-18T00:00:00.000Z",
+    "value": 26750.830658687613,
+    "created_time": "2023-12-12T02:00:07.404Z",
+    "updated_time": "2023-12-12T02:00:07.404Z"
+  },
+  {
+    "id": 114831,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-19T00:00:00.000Z",
+    "value": 27225.165288012224,
+    "created_time": "2023-12-12T02:00:07.411Z",
+    "updated_time": "2023-12-12T02:00:07.411Z"
+  },
+  {
+    "id": 114832,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-20T00:00:00.000Z",
+    "value": 27130.319893611046,
+    "created_time": "2023-12-12T02:00:07.422Z",
+    "updated_time": "2023-12-12T02:00:07.422Z"
+  },
+  {
+    "id": 114833,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-21T00:00:00.000Z",
+    "value": 26565.444330587725,
+    "created_time": "2023-12-12T02:00:07.428Z",
+    "updated_time": "2023-12-12T02:00:07.428Z"
+  },
+  {
+    "id": 114834,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-22T00:00:00.000Z",
+    "value": 26580.948241165996,
+    "created_time": "2023-12-12T02:00:07.435Z",
+    "updated_time": "2023-12-12T02:00:07.435Z"
+  },
+  {
+    "id": 114835,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-23T00:00:00.000Z",
+    "value": 26579.711860935837,
+    "created_time": "2023-12-12T02:00:07.446Z",
+    "updated_time": "2023-12-12T02:00:07.446Z"
+  },
+  {
+    "id": 114836,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-24T00:00:00.000Z",
+    "value": 26251.94000126036,
+    "created_time": "2023-12-12T02:00:07.453Z",
+    "updated_time": "2023-12-12T02:00:07.453Z"
+  },
+  {
+    "id": 114837,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-25T00:00:00.000Z",
+    "value": 26301.84780924953,
+    "created_time": "2023-12-12T02:00:07.459Z",
+    "updated_time": "2023-12-12T02:00:07.459Z"
+  },
+  {
+    "id": 114838,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-26T00:00:00.000Z",
+    "value": 26207.098840276893,
+    "created_time": "2023-12-12T02:00:07.467Z",
+    "updated_time": "2023-12-12T02:00:07.467Z"
+  },
+  {
+    "id": 114839,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-27T00:00:00.000Z",
+    "value": 26351.923799727545,
+    "created_time": "2023-12-12T02:00:07.473Z",
+    "updated_time": "2023-12-12T02:00:07.473Z"
+  },
+  {
+    "id": 114840,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-28T00:00:00.000Z",
+    "value": 27020.0201195083,
+    "created_time": "2023-12-12T02:00:07.478Z",
+    "updated_time": "2023-12-12T02:00:07.478Z"
+  },
+  {
+    "id": 114841,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-29T00:00:00.000Z",
+    "value": 26918.04725949445,
+    "created_time": "2023-12-12T02:00:07.484Z",
+    "updated_time": "2023-12-12T02:00:07.484Z"
+  },
+  {
+    "id": 114842,
+    "name": "btc_price_usd_close",
+    "time": "2023-09-30T00:00:00.000Z",
+    "value": 26969.662422276026,
+    "created_time": "2023-12-12T02:00:07.491Z",
+    "updated_time": "2023-12-12T02:00:07.491Z"
+  },
+  {
+    "id": 114843,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-01T00:00:00.000Z",
+    "value": 27971.720079662788,
+    "created_time": "2023-12-12T02:00:07.500Z",
+    "updated_time": "2023-12-12T02:00:07.500Z"
+  },
+  {
+    "id": 114844,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-02T00:00:00.000Z",
+    "value": 27615.810922283403,
+    "created_time": "2023-12-12T02:00:07.510Z",
+    "updated_time": "2023-12-12T02:00:07.510Z"
+  },
+  {
+    "id": 114845,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-03T00:00:00.000Z",
+    "value": 27442.04846351269,
+    "created_time": "2023-12-12T02:00:07.517Z",
+    "updated_time": "2023-12-12T02:00:07.517Z"
+  },
+  {
+    "id": 114846,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-04T00:00:00.000Z",
+    "value": 27793.835595991313,
+    "created_time": "2023-12-12T02:00:07.527Z",
+    "updated_time": "2023-12-12T02:00:07.527Z"
+  },
+  {
+    "id": 114847,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-05T00:00:00.000Z",
+    "value": 27435.1378448644,
+    "created_time": "2023-12-12T02:00:07.533Z",
+    "updated_time": "2023-12-12T02:00:07.533Z"
+  },
+  {
+    "id": 114848,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-06T00:00:00.000Z",
+    "value": 27945.923371919063,
+    "created_time": "2023-12-12T02:00:07.542Z",
+    "updated_time": "2023-12-12T02:00:07.542Z"
+  },
+  {
+    "id": 114849,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-07T00:00:00.000Z",
+    "value": 27972.86168328721,
+    "created_time": "2023-12-12T02:00:07.553Z",
+    "updated_time": "2023-12-12T02:00:07.553Z"
+  },
+  {
+    "id": 114850,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-08T00:00:00.000Z",
+    "value": 27946.940819119573,
+    "created_time": "2023-12-12T02:00:07.559Z",
+    "updated_time": "2023-12-12T02:00:07.559Z"
+  },
+  {
+    "id": 114851,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-09T00:00:00.000Z",
+    "value": 27589.872528307096,
+    "created_time": "2023-12-12T02:00:07.565Z",
+    "updated_time": "2023-12-12T02:00:07.565Z"
+  },
+  {
+    "id": 114852,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-10T00:00:00.000Z",
+    "value": 27391.340515995755,
+    "created_time": "2023-12-12T02:00:07.571Z",
+    "updated_time": "2023-12-12T02:00:07.571Z"
+  },
+  {
+    "id": 114853,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-11T00:00:00.000Z",
+    "value": 26839.4634565126,
+    "created_time": "2023-12-12T02:00:07.577Z",
+    "updated_time": "2023-12-12T02:00:07.577Z"
+  },
+  {
+    "id": 114854,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-12T00:00:00.000Z",
+    "value": 26740.622279190473,
+    "created_time": "2023-12-12T02:00:07.583Z",
+    "updated_time": "2023-12-12T02:00:07.583Z"
+  },
+  {
+    "id": 114855,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-13T00:00:00.000Z",
+    "value": 26846.408960513527,
+    "created_time": "2023-12-12T02:00:07.593Z",
+    "updated_time": "2023-12-12T02:00:07.593Z"
+  },
+  {
+    "id": 114856,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-14T00:00:00.000Z",
+    "value": 26863.172256085036,
+    "created_time": "2023-12-12T02:00:07.599Z",
+    "updated_time": "2023-12-12T02:00:07.599Z"
+  },
+  {
+    "id": 114857,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-15T00:00:00.000Z",
+    "value": 27147.722756725423,
+    "created_time": "2023-12-12T02:00:07.606Z",
+    "updated_time": "2023-12-12T02:00:07.606Z"
+  },
+  {
+    "id": 114858,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-16T00:00:00.000Z",
+    "value": 28525.712165863904,
+    "created_time": "2023-12-12T02:00:07.612Z",
+    "updated_time": "2023-12-12T02:00:07.612Z"
+  },
+  {
+    "id": 114859,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-17T00:00:00.000Z",
+    "value": 28418.949444907274,
+    "created_time": "2023-12-12T02:00:07.618Z",
+    "updated_time": "2023-12-12T02:00:07.618Z"
+  },
+  {
+    "id": 114860,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-18T00:00:00.000Z",
+    "value": 28329.06095625457,
+    "created_time": "2023-12-12T02:00:07.624Z",
+    "updated_time": "2023-12-12T02:00:07.624Z"
+  },
+  {
+    "id": 114861,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-19T00:00:00.000Z",
+    "value": 28706.162829946654,
+    "created_time": "2023-12-12T02:00:07.629Z",
+    "updated_time": "2023-12-12T02:00:07.629Z"
+  },
+  {
+    "id": 114862,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-20T00:00:00.000Z",
+    "value": 29681.53100155717,
+    "created_time": "2023-12-12T02:00:07.635Z",
+    "updated_time": "2023-12-12T02:00:07.635Z"
+  },
+  {
+    "id": 114863,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-21T00:00:00.000Z",
+    "value": 29910.698211552164,
+    "created_time": "2023-12-12T02:00:07.641Z",
+    "updated_time": "2023-12-12T02:00:07.641Z"
+  },
+  {
+    "id": 114864,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-22T00:00:00.000Z",
+    "value": 29976.48140937994,
+    "created_time": "2023-12-12T02:00:07.651Z",
+    "updated_time": "2023-12-12T02:00:07.651Z"
+  },
+  {
+    "id": 114865,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-23T00:00:00.000Z",
+    "value": 32960.903130020706,
+    "created_time": "2023-12-12T02:00:07.663Z",
+    "updated_time": "2023-12-12T02:00:07.663Z"
+  },
+  {
+    "id": 114866,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-24T00:00:00.000Z",
+    "value": 33832.92156782277,
+    "created_time": "2023-12-12T02:00:07.669Z",
+    "updated_time": "2023-12-12T02:00:07.669Z"
+  },
+  {
+    "id": 114867,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-25T00:00:00.000Z",
+    "value": 34470.46130563398,
+    "created_time": "2023-12-12T02:00:07.675Z",
+    "updated_time": "2023-12-12T02:00:07.675Z"
+  },
+  {
+    "id": 114868,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-26T00:00:00.000Z",
+    "value": 34168.19923008328,
+    "created_time": "2023-12-12T02:00:07.681Z",
+    "updated_time": "2023-12-12T02:00:07.681Z"
+  },
+  {
+    "id": 114869,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-27T00:00:00.000Z",
+    "value": 33916.76423685646,
+    "created_time": "2023-12-12T02:00:07.688Z",
+    "updated_time": "2023-12-12T02:00:07.688Z"
+  },
+  {
+    "id": 114870,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-28T00:00:00.000Z",
+    "value": 34097.529089996075,
+    "created_time": "2023-12-12T02:00:07.701Z",
+    "updated_time": "2023-12-12T02:00:07.701Z"
+  },
+  {
+    "id": 114871,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-29T00:00:00.000Z",
+    "value": 34551.36503872739,
+    "created_time": "2023-12-12T02:00:07.708Z",
+    "updated_time": "2023-12-12T02:00:07.708Z"
+  },
+  {
+    "id": 114872,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-30T00:00:00.000Z",
+    "value": 34497.30370524424,
+    "created_time": "2023-12-12T02:00:07.719Z",
+    "updated_time": "2023-12-12T02:00:07.719Z"
+  },
+  {
+    "id": 114873,
+    "name": "btc_price_usd_close",
+    "time": "2023-10-31T00:00:00.000Z",
+    "value": 34653.68427295294,
+    "created_time": "2023-12-12T02:00:07.726Z",
+    "updated_time": "2023-12-12T02:00:07.726Z"
+  },
+  {
+    "id": 114874,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-01T00:00:00.000Z",
+    "value": 35421.13090383127,
+    "created_time": "2023-12-12T02:00:07.735Z",
+    "updated_time": "2023-12-12T02:00:07.735Z"
+  },
+  {
+    "id": 114875,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-02T00:00:00.000Z",
+    "value": 34934.74168206966,
+    "created_time": "2023-12-12T02:00:07.754Z",
+    "updated_time": "2023-12-12T02:00:07.754Z"
+  },
+  {
+    "id": 114876,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-03T00:00:00.000Z",
+    "value": 34740.1173306426,
+    "created_time": "2023-12-12T02:00:07.760Z",
+    "updated_time": "2023-12-12T02:00:07.760Z"
+  },
+  {
+    "id": 114877,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-04T00:00:00.000Z",
+    "value": 35070.047845688896,
+    "created_time": "2023-12-12T02:00:07.768Z",
+    "updated_time": "2023-12-12T02:00:07.768Z"
+  },
+  {
+    "id": 114878,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-05T00:00:00.000Z",
+    "value": 35053.76045609004,
+    "created_time": "2023-12-12T02:00:07.774Z",
+    "updated_time": "2023-12-12T02:00:07.774Z"
+  },
+  {
+    "id": 114879,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-06T00:00:00.000Z",
+    "value": 35032.64532058074,
+    "created_time": "2023-12-12T02:00:07.780Z",
+    "updated_time": "2023-12-12T02:00:07.780Z"
+  },
+  {
+    "id": 114880,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-07T00:00:00.000Z",
+    "value": 35448.2806676018,
+    "created_time": "2023-12-12T02:00:07.787Z",
+    "updated_time": "2023-12-12T02:00:07.787Z"
+  },
+  {
+    "id": 114881,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-08T00:00:00.000Z",
+    "value": 35708.93657636417,
+    "created_time": "2023-12-12T02:00:07.794Z",
+    "updated_time": "2023-12-12T02:00:07.794Z"
+  },
+  {
+    "id": 114882,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-09T00:00:00.000Z",
+    "value": 36718.29996585175,
+    "created_time": "2023-12-12T02:00:07.800Z",
+    "updated_time": "2023-12-12T02:00:07.800Z"
+  },
+  {
+    "id": 114883,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-10T00:00:00.000Z",
+    "value": 37327.71400679534,
+    "created_time": "2023-12-12T02:00:07.807Z",
+    "updated_time": "2023-12-12T02:00:07.807Z"
+  },
+  {
+    "id": 114884,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-11T00:00:00.000Z",
+    "value": 37128.810888320564,
+    "created_time": "2023-12-12T02:00:07.813Z",
+    "updated_time": "2023-12-12T02:00:07.813Z"
+  },
+  {
+    "id": 114885,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-12T00:00:00.000Z",
+    "value": 37057.80007585649,
+    "created_time": "2023-12-12T02:00:07.822Z",
+    "updated_time": "2023-12-12T02:00:07.822Z"
+  },
+  {
+    "id": 114886,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-13T00:00:00.000Z",
+    "value": 36534.6332410215,
+    "created_time": "2023-12-12T02:00:07.831Z",
+    "updated_time": "2023-12-12T02:00:07.831Z"
+  },
+  {
+    "id": 114887,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-14T00:00:00.000Z",
+    "value": 35534.1172334461,
+    "created_time": "2023-12-12T02:00:07.839Z",
+    "updated_time": "2023-12-12T02:00:07.839Z"
+  },
+  {
+    "id": 114888,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-15T00:00:00.000Z",
+    "value": 37964.89283231469,
+    "created_time": "2023-12-12T02:00:07.848Z",
+    "updated_time": "2023-12-12T02:00:07.848Z"
+  },
+  {
+    "id": 114889,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-16T00:00:00.000Z",
+    "value": 36208.80073710577,
+    "created_time": "2023-12-12T02:00:07.855Z",
+    "updated_time": "2023-12-12T02:00:07.855Z"
+  },
+  {
+    "id": 114890,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-17T00:00:00.000Z",
+    "value": 36549.8505906689,
+    "created_time": "2023-12-12T02:00:07.861Z",
+    "updated_time": "2023-12-12T02:00:07.861Z"
+  },
+  {
+    "id": 114891,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-18T00:00:00.000Z",
+    "value": 36580.419891496276,
+    "created_time": "2023-12-12T02:00:07.876Z",
+    "updated_time": "2023-12-12T02:00:07.876Z"
+  },
+  {
+    "id": 114892,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-19T00:00:00.000Z",
+    "value": 37420.24400937347,
+    "created_time": "2023-12-12T02:00:07.888Z",
+    "updated_time": "2023-12-12T02:00:07.888Z"
+  },
+  {
+    "id": 114893,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-20T00:00:00.000Z",
+    "value": 37485.769025447844,
+    "created_time": "2023-12-12T02:00:07.902Z",
+    "updated_time": "2023-12-12T02:00:07.902Z"
+  },
+  {
+    "id": 114894,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-21T00:00:00.000Z",
+    "value": 35969.24717751081,
+    "created_time": "2023-12-12T02:00:07.909Z",
+    "updated_time": "2023-12-12T02:00:07.909Z"
+  },
+  {
+    "id": 114895,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-22T00:00:00.000Z",
+    "value": 37459.03158130383,
+    "created_time": "2023-12-12T02:00:07.916Z",
+    "updated_time": "2023-12-12T02:00:07.916Z"
+  },
+  {
+    "id": 114896,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-23T00:00:00.000Z",
+    "value": 37289.77650556166,
+    "created_time": "2023-12-12T02:00:07.922Z",
+    "updated_time": "2023-12-12T02:00:07.922Z"
+  },
+  {
+    "id": 114897,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-24T00:00:00.000Z",
+    "value": 37727.33702846596,
+    "created_time": "2023-12-12T02:00:07.929Z",
+    "updated_time": "2023-12-12T02:00:07.929Z"
+  },
+  {
+    "id": 114898,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-25T00:00:00.000Z",
+    "value": 37803.473211033124,
+    "created_time": "2023-12-12T02:00:07.935Z",
+    "updated_time": "2023-12-12T02:00:07.935Z"
+  },
+  {
+    "id": 114899,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-26T00:00:00.000Z",
+    "value": 37484.80355503841,
+    "created_time": "2023-12-12T02:00:07.947Z",
+    "updated_time": "2023-12-12T02:00:07.947Z"
+  },
+  {
+    "id": 114900,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-27T00:00:00.000Z",
+    "value": 37269.400987279856,
+    "created_time": "2023-12-12T02:00:07.953Z",
+    "updated_time": "2023-12-12T02:00:07.953Z"
+  },
+  {
+    "id": 114901,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-28T00:00:00.000Z",
+    "value": 37793.216542398746,
+    "created_time": "2023-12-12T02:00:07.958Z",
+    "updated_time": "2023-12-12T02:00:07.958Z"
+  },
+  {
+    "id": 114902,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-29T00:00:00.000Z",
+    "value": 37827.18414956041,
+    "created_time": "2023-12-12T02:00:07.964Z",
+    "updated_time": "2023-12-12T02:00:07.964Z"
+  },
+  {
+    "id": 114903,
+    "name": "btc_price_usd_close",
+    "time": "2023-11-30T00:00:00.000Z",
+    "value": 37714.61032287171,
+    "created_time": "2023-12-12T02:00:07.972Z",
+    "updated_time": "2023-12-12T02:00:07.972Z"
+  },
+  {
+    "id": 114904,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-01T00:00:00.000Z",
+    "value": 38670.53035776816,
+    "created_time": "2023-12-12T02:00:07.977Z",
+    "updated_time": "2023-12-12T02:00:07.977Z"
+  },
+  {
+    "id": 114905,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-02T00:00:00.000Z",
+    "value": 39476.85929972383,
+    "created_time": "2023-12-12T02:00:07.984Z",
+    "updated_time": "2023-12-12T02:00:07.984Z"
+  },
+  {
+    "id": 114906,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-03T00:00:00.000Z",
+    "value": 39944.90905195962,
+    "created_time": "2023-12-12T02:00:07.992Z",
+    "updated_time": "2023-12-12T02:00:07.992Z"
+  },
+  {
+    "id": 114907,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-04T00:00:00.000Z",
+    "value": 41968.89957669015,
+    "created_time": "2023-12-12T02:00:07.998Z",
+    "updated_time": "2023-12-12T02:00:07.998Z"
+  },
+  {
+    "id": 114908,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-05T00:00:00.000Z",
+    "value": 44139.714609322225,
+    "created_time": "2023-12-12T02:00:08.005Z",
+    "updated_time": "2023-12-12T02:00:08.005Z"
+  },
+  {
+    "id": 114909,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-06T00:00:00.000Z",
+    "value": 43728.436862968534,
+    "created_time": "2023-12-12T02:00:08.014Z",
+    "updated_time": "2023-12-12T02:00:08.014Z"
+  },
+  {
+    "id": 114910,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-07T00:00:00.000Z",
+    "value": 43268.438483372134,
+    "created_time": "2023-12-12T02:00:08.022Z",
+    "updated_time": "2023-12-12T02:00:08.022Z"
+  },
+  {
+    "id": 114911,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-08T00:00:00.000Z",
+    "value": 44191.71400394974,
+    "created_time": "2023-12-12T02:00:08.030Z",
+    "updated_time": "2023-12-12T02:00:08.030Z"
+  },
+  {
+    "id": 114912,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-09T00:00:00.000Z",
+    "value": 43723.69223698158,
+    "created_time": "2023-12-12T02:00:08.040Z",
+    "updated_time": "2023-12-12T02:00:08.040Z"
+  },
+  {
+    "id": 114913,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-10T00:00:00.000Z",
+    "value": 43764.581031140384,
+    "created_time": "2023-12-12T02:00:08.049Z",
+    "updated_time": "2023-12-12T02:00:08.049Z"
+  },
+  {
+    "id": 114914,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-11T00:00:00.000Z",
+    "value": 41195.11550031206,
+    "created_time": "2023-12-12T02:00:08.057Z",
+    "updated_time": "2023-12-12T02:00:08.057Z"
+  },
+  {
+    "id": 114915,
+    "name": "btc_price_usd_close",
+    "time": "2023-12-12T00:00:00.000Z",
+    "value": 41648.92823612409,
+    "created_time": "2023-12-12T02:00:08.064Z",
+    "updated_time": "2023-12-12T02:00:08.064Z"
+  }
+]
