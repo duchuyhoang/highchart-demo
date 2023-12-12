@@ -1,0 +1,802 @@
+[
+    {
+        "id": 469,
+        "name": "total_market_cap",
+        "time": "2023-01-23T00:00:00.000Z",
+        "value": 137121846513.31,
+        "created_time": "2023-11-26T13:31:10.831Z",
+        "updated_time": "2023-11-26T13:31:10.831Z"
+    },
+    {
+        "id": 470,
+        "name": "total_market_cap",
+        "time": "2023-01-24T00:00:00.000Z",
+        "value": 136957975059.82,
+        "created_time": "2023-11-26T13:31:10.833Z",
+        "updated_time": "2023-11-26T13:31:10.833Z"
+    },
+    {
+        "id": 471,
+        "name": "total_market_cap",
+        "time": "2023-01-25T00:00:00.000Z",
+        "value": 136968798701.93,
+        "created_time": "2023-11-26T13:31:10.834Z",
+        "updated_time": "2023-11-26T13:31:10.834Z"
+    },
+    {
+        "id": 472,
+        "name": "total_market_cap",
+        "time": "2023-01-26T00:00:00.000Z",
+        "value": 137266286419.75,
+        "created_time": "2023-11-26T13:31:10.835Z",
+        "updated_time": "2023-11-26T13:31:10.835Z"
+    },
+    {
+        "id": 473,
+        "name": "total_market_cap",
+        "time": "2023-01-27T00:00:00.000Z",
+        "value": 137471646131.75,
+        "created_time": "2023-11-26T13:31:10.836Z",
+        "updated_time": "2023-11-26T13:31:10.836Z"
+    },
+    {
+        "id": 474,
+        "name": "total_market_cap",
+        "time": "2023-01-28T00:00:00.000Z",
+        "value": 137300691597.92,
+        "created_time": "2023-11-26T13:31:10.837Z",
+        "updated_time": "2023-11-26T13:31:10.837Z"
+    },
+    {
+        "id": 475,
+        "name": "total_market_cap",
+        "time": "2023-01-29T00:00:00.000Z",
+        "value": 137460233649.17,
+        "created_time": "2023-11-26T13:31:10.838Z",
+        "updated_time": "2023-11-26T13:31:10.838Z"
+    },
+    {
+        "id": 476,
+        "name": "total_market_cap",
+        "time": "2023-01-30T00:00:00.000Z",
+        "value": 137413974685.63,
+        "created_time": "2023-11-26T13:31:10.839Z",
+        "updated_time": "2023-11-26T13:31:10.839Z"
+    },
+    {
+        "id": 477,
+        "name": "total_market_cap",
+        "time": "2023-01-31T00:00:00.000Z",
+        "value": 137069893019.19,
+        "created_time": "2023-11-26T13:31:10.839Z",
+        "updated_time": "2023-11-26T13:31:10.839Z"
+    },
+    {
+        "id": 478,
+        "name": "total_market_cap",
+        "time": "2023-02-01T00:00:00.000Z",
+        "value": 137182620290.56,
+        "created_time": "2023-11-26T13:31:10.840Z",
+        "updated_time": "2023-11-26T13:31:10.840Z"
+    },
+    {
+        "id": 479,
+        "name": "total_market_cap",
+        "time": "2023-02-02T00:00:00.000Z",
+        "value": 137120628908.11,
+        "created_time": "2023-11-26T13:31:10.841Z",
+        "updated_time": "2023-11-26T13:31:10.841Z"
+    },
+    {
+        "id": 480,
+        "name": "total_market_cap",
+        "time": "2023-02-03T00:00:00.000Z",
+        "value": 137418814337.04,
+        "created_time": "2023-11-26T13:31:10.842Z",
+        "updated_time": "2023-11-26T13:31:10.842Z"
+    },
+    {
+        "id": 481,
+        "name": "total_market_cap",
+        "time": "2023-02-04T00:00:00.000Z",
+        "value": 137267731805.60,
+        "created_time": "2023-11-26T13:31:10.844Z",
+        "updated_time": "2023-11-26T13:31:10.844Z"
+    },
+    {
+        "id": 482,
+        "name": "total_market_cap",
+        "time": "2023-02-05T00:00:00.000Z",
+        "value": 137268537654.18,
+        "created_time": "2023-11-26T13:31:10.845Z",
+        "updated_time": "2023-11-26T13:31:10.845Z"
+    },
+    {
+        "id": 483,
+        "name": "total_market_cap",
+        "time": "2023-02-06T00:00:00.000Z",
+        "value": 137283717042.49,
+        "created_time": "2023-11-26T13:31:10.846Z",
+        "updated_time": "2023-11-26T13:31:10.846Z"
+    },
+    {
+        "id": 484,
+        "name": "total_market_cap",
+        "time": "2023-02-07T00:00:00.000Z",
+        "value": 137139783374.13,
+        "created_time": "2023-11-26T13:31:10.847Z",
+        "updated_time": "2023-11-26T13:31:10.847Z"
+    },
+    {
+        "id": 485,
+        "name": "total_market_cap",
+        "time": "2023-02-08T00:00:00.000Z",
+        "value": 136950303335.04,
+        "created_time": "2023-11-26T13:31:10.848Z",
+        "updated_time": "2023-11-26T13:31:10.848Z"
+    },
+    {
+        "id": 486,
+        "name": "total_market_cap",
+        "time": "2023-02-09T00:00:00.000Z",
+        "value": 136783826005.70,
+        "created_time": "2023-11-26T13:31:10.849Z",
+        "updated_time": "2023-11-26T13:31:10.849Z"
+    },
+    {
+        "id": 487,
+        "name": "total_market_cap",
+        "time": "2023-02-10T00:00:00.000Z",
+        "value": 136600706620.50,
+        "created_time": "2023-11-26T13:31:10.850Z",
+        "updated_time": "2023-11-26T13:31:10.850Z"
+    },
+    {
+        "id": 488,
+        "name": "total_market_cap",
+        "time": "2023-02-11T00:00:00.000Z",
+        "value": 136631677882.12,
+        "created_time": "2023-11-26T13:31:10.851Z",
+        "updated_time": "2023-11-26T13:31:10.851Z"
+    },
+    {
+        "id": 489,
+        "name": "total_market_cap",
+        "time": "2023-02-12T00:00:00.000Z",
+        "value": 136654228170.04,
+        "created_time": "2023-11-26T13:31:10.852Z",
+        "updated_time": "2023-11-26T13:31:10.852Z"
+    },
+    {
+        "id": 490,
+        "name": "total_market_cap",
+        "time": "2023-02-13T00:00:00.000Z",
+        "value": 136569999534.61,
+        "created_time": "2023-11-26T13:31:10.853Z",
+        "updated_time": "2023-11-26T13:31:10.853Z"
+    },
+    {
+        "id": 491,
+        "name": "total_market_cap",
+        "time": "2023-02-14T00:00:00.000Z",
+        "value": 136736256145.81,
+        "created_time": "2023-11-26T13:31:10.854Z",
+        "updated_time": "2023-11-26T13:31:10.854Z"
+    },
+    {
+        "id": 492,
+        "name": "total_market_cap",
+        "time": "2023-02-15T00:00:00.000Z",
+        "value": 136575616996.54,
+        "created_time": "2023-11-26T13:31:10.855Z",
+        "updated_time": "2023-11-26T13:31:10.855Z"
+    },
+    {
+        "id": 493,
+        "name": "total_market_cap",
+        "time": "2023-02-16T00:00:00.000Z",
+        "value": 136193691602.08,
+        "created_time": "2023-11-26T13:31:10.856Z",
+        "updated_time": "2023-11-26T13:31:10.856Z"
+    },
+    {
+        "id": 494,
+        "name": "total_market_cap",
+        "time": "2023-02-17T00:00:00.000Z",
+        "value": 136296099834.32,
+        "created_time": "2023-11-26T13:31:10.856Z",
+        "updated_time": "2023-11-26T13:31:10.856Z"
+    },
+    {
+        "id": 495,
+        "name": "total_market_cap",
+        "time": "2023-02-18T00:00:00.000Z",
+        "value": 136248385878.08,
+        "created_time": "2023-11-26T13:31:10.857Z",
+        "updated_time": "2023-11-26T13:31:10.857Z"
+    },
+    {
+        "id": 496,
+        "name": "total_market_cap",
+        "time": "2023-02-19T00:00:00.000Z",
+        "value": 136266430530.44,
+        "created_time": "2023-11-26T13:31:10.858Z",
+        "updated_time": "2023-11-26T13:31:10.858Z"
+    },
+    {
+        "id": 497,
+        "name": "total_market_cap",
+        "time": "2023-02-20T00:00:00.000Z",
+        "value": 136312292330.83,
+        "created_time": "2023-11-26T13:31:10.859Z",
+        "updated_time": "2023-11-26T13:31:10.859Z"
+    },
+    {
+        "id": 498,
+        "name": "total_market_cap",
+        "time": "2023-02-21T00:00:00.000Z",
+        "value": 135975152039.21,
+        "created_time": "2023-11-26T13:31:10.860Z",
+        "updated_time": "2023-11-26T13:31:10.860Z"
+    },
+    {
+        "id": 499,
+        "name": "total_market_cap",
+        "time": "2023-02-22T00:00:00.000Z",
+        "value": 135743352791.59,
+        "created_time": "2023-11-26T13:31:10.861Z",
+        "updated_time": "2023-11-26T13:31:10.861Z"
+    },
+    {
+        "id": 500,
+        "name": "total_market_cap",
+        "time": "2023-02-23T00:00:00.000Z",
+        "value": 135466254015.62,
+        "created_time": "2023-11-26T13:31:10.862Z",
+        "updated_time": "2023-11-26T13:31:10.862Z"
+    },
+    {
+        "id": 501,
+        "name": "total_market_cap",
+        "time": "2023-02-24T00:00:00.000Z",
+        "value": 135331794986.80,
+        "created_time": "2023-11-26T13:31:10.864Z",
+        "updated_time": "2023-11-26T13:31:10.864Z"
+    },
+    {
+        "id": 502,
+        "name": "total_market_cap",
+        "time": "2023-02-25T00:00:00.000Z",
+        "value": 135330689716.36,
+        "created_time": "2023-11-26T13:31:10.865Z",
+        "updated_time": "2023-11-26T13:31:10.865Z"
+    },
+    {
+        "id": 503,
+        "name": "total_market_cap",
+        "time": "2023-02-26T00:00:00.000Z",
+        "value": 135449393185.84,
+        "created_time": "2023-11-26T13:31:10.866Z",
+        "updated_time": "2023-11-26T13:31:10.866Z"
+    },
+    {
+        "id": 504,
+        "name": "total_market_cap",
+        "time": "2023-02-27T00:00:00.000Z",
+        "value": 135374616569.80,
+        "created_time": "2023-11-26T13:31:10.867Z",
+        "updated_time": "2023-11-26T13:31:10.867Z"
+    },
+    {
+        "id": 505,
+        "name": "total_market_cap",
+        "time": "2023-02-28T00:00:00.000Z",
+        "value": 135076231320.43,
+        "created_time": "2023-11-26T13:31:10.868Z",
+        "updated_time": "2023-11-26T13:31:10.868Z"
+    },
+    {
+        "id": 506,
+        "name": "total_market_cap",
+        "time": "2023-03-01T00:00:00.000Z",
+        "value": 134924334331.83,
+        "created_time": "2023-11-26T13:31:10.869Z",
+        "updated_time": "2023-11-26T13:31:10.869Z"
+    },
+    {
+        "id": 507,
+        "name": "total_market_cap",
+        "time": "2023-03-02T00:00:00.000Z",
+        "value": 134764114963.35,
+        "created_time": "2023-11-26T13:31:10.870Z",
+        "updated_time": "2023-11-26T13:31:10.870Z"
+    },
+    {
+        "id": 508,
+        "name": "total_market_cap",
+        "time": "2023-03-03T00:00:00.000Z",
+        "value": 134941028715.18,
+        "created_time": "2023-11-26T13:31:10.871Z",
+        "updated_time": "2023-11-26T13:31:10.871Z"
+    },
+    {
+        "id": 509,
+        "name": "total_market_cap",
+        "time": "2023-03-04T00:00:00.000Z",
+        "value": 134937503661.07,
+        "created_time": "2023-11-26T13:31:10.872Z",
+        "updated_time": "2023-11-26T13:31:10.872Z"
+    },
+    {
+        "id": 510,
+        "name": "total_market_cap",
+        "time": "2023-03-05T00:00:00.000Z",
+        "value": 135016159749.92,
+        "created_time": "2023-11-26T13:31:10.874Z",
+        "updated_time": "2023-11-26T13:31:10.874Z"
+    },
+    {
+        "id": 511,
+        "name": "total_market_cap",
+        "time": "2023-03-06T00:00:00.000Z",
+        "value": 135086625126.88,
+        "created_time": "2023-11-26T13:31:10.875Z",
+        "updated_time": "2023-11-26T13:31:10.875Z"
+    },
+    {
+        "id": 512,
+        "name": "total_market_cap",
+        "time": "2023-03-07T00:00:00.000Z",
+        "value": 134883505411.62,
+        "created_time": "2023-11-26T13:31:10.876Z",
+        "updated_time": "2023-11-26T13:31:10.876Z"
+    },
+    {
+        "id": 513,
+        "name": "total_market_cap",
+        "time": "2023-03-08T00:00:00.000Z",
+        "value": 134907652351.59,
+        "created_time": "2023-11-26T13:31:10.877Z",
+        "updated_time": "2023-11-26T13:31:10.877Z"
+    },
+    {
+        "id": 514,
+        "name": "total_market_cap",
+        "time": "2023-03-09T00:00:00.000Z",
+        "value": 134791580140.13,
+        "created_time": "2023-11-26T13:31:10.879Z",
+        "updated_time": "2023-11-26T13:31:10.879Z"
+    },
+    {
+        "id": 515,
+        "name": "total_market_cap",
+        "time": "2023-03-10T00:00:00.000Z",
+        "value": 134791148418.99,
+        "created_time": "2023-11-26T13:31:10.880Z",
+        "updated_time": "2023-11-26T13:31:10.880Z"
+    },
+    {
+        "id": 516,
+        "name": "total_market_cap",
+        "time": "2023-03-11T00:00:00.000Z",
+        "value": 134422804251.67,
+        "created_time": "2023-11-26T13:31:10.881Z",
+        "updated_time": "2023-11-26T13:31:10.881Z"
+    },
+    {
+        "id": 517,
+        "name": "total_market_cap",
+        "time": "2023-03-12T00:00:00.000Z",
+        "value": 131578172014.02,
+        "created_time": "2023-11-26T13:31:10.883Z",
+        "updated_time": "2023-11-26T13:31:10.883Z"
+    },
+    {
+        "id": 518,
+        "name": "total_market_cap",
+        "time": "2023-03-13T00:00:00.000Z",
+        "value": 135144181957.08,
+        "created_time": "2023-11-26T13:31:10.884Z",
+        "updated_time": "2023-11-26T13:31:10.884Z"
+    },
+    {
+        "id": 519,
+        "name": "total_market_cap",
+        "time": "2023-03-14T00:00:00.000Z",
+        "value": 133578136340.19,
+        "created_time": "2023-11-26T13:31:10.885Z",
+        "updated_time": "2023-11-26T13:31:10.885Z"
+    },
+    {
+        "id": 520,
+        "name": "total_market_cap",
+        "time": "2023-03-15T00:00:00.000Z",
+        "value": 132681309420.69,
+        "created_time": "2023-11-26T13:31:10.886Z",
+        "updated_time": "2023-11-26T13:31:10.886Z"
+    },
+    {
+        "id": 521,
+        "name": "total_market_cap",
+        "time": "2023-03-16T00:00:00.000Z",
+        "value": 133026226800.73,
+        "created_time": "2023-11-26T13:31:10.887Z",
+        "updated_time": "2023-11-26T13:31:10.887Z"
+    },
+    {
+        "id": 522,
+        "name": "total_market_cap",
+        "time": "2023-03-17T00:00:00.000Z",
+        "value": 133130805610.33,
+        "created_time": "2023-11-26T13:31:10.888Z",
+        "updated_time": "2023-11-26T13:31:10.888Z"
+    },
+    {
+        "id": 523,
+        "name": "total_market_cap",
+        "time": "2023-03-18T00:00:00.000Z",
+        "value": 133123332366.35,
+        "created_time": "2023-11-26T13:31:10.889Z",
+        "updated_time": "2023-11-26T13:31:10.889Z"
+    },
+    {
+        "id": 524,
+        "name": "total_market_cap",
+        "time": "2023-03-19T00:00:00.000Z",
+        "value": 133505954507.01,
+        "created_time": "2023-11-26T13:31:10.890Z",
+        "updated_time": "2023-11-26T13:31:10.890Z"
+    },
+    {
+        "id": 525,
+        "name": "total_market_cap",
+        "time": "2023-03-20T00:00:00.000Z",
+        "value": 133235293007.57,
+        "created_time": "2023-11-26T13:31:10.891Z",
+        "updated_time": "2023-11-26T13:31:10.891Z"
+    },
+    {
+        "id": 526,
+        "name": "total_market_cap",
+        "time": "2023-03-21T00:00:00.000Z",
+        "value": 133526949928.91,
+        "created_time": "2023-11-26T13:31:10.892Z",
+        "updated_time": "2023-11-26T13:31:10.892Z"
+    },
+    {
+        "id": 527,
+        "name": "total_market_cap",
+        "time": "2023-03-22T00:00:00.000Z",
+        "value": 133353740787.58,
+        "created_time": "2023-11-26T13:31:10.893Z",
+        "updated_time": "2023-11-26T13:31:10.893Z"
+    },
+    {
+        "id": 528,
+        "name": "total_market_cap",
+        "time": "2023-03-23T00:00:00.000Z",
+        "value": 133170133672.40,
+        "created_time": "2023-11-26T13:31:10.894Z",
+        "updated_time": "2023-11-26T13:31:10.894Z"
+    },
+    {
+        "id": 529,
+        "name": "total_market_cap",
+        "time": "2023-03-24T00:00:00.000Z",
+        "value": 133355939025.76,
+        "created_time": "2023-11-26T13:31:10.895Z",
+        "updated_time": "2023-11-26T13:31:10.895Z"
+    },
+    {
+        "id": 530,
+        "name": "total_market_cap",
+        "time": "2023-03-25T00:00:00.000Z",
+        "value": 133655748604.64,
+        "created_time": "2023-11-26T13:31:10.896Z",
+        "updated_time": "2023-11-26T13:31:10.896Z"
+    },
+    {
+        "id": 531,
+        "name": "total_market_cap",
+        "time": "2023-03-26T00:00:00.000Z",
+        "value": 133925937431.35,
+        "created_time": "2023-11-26T13:31:10.897Z",
+        "updated_time": "2023-11-26T13:31:10.897Z"
+    },
+    {
+        "id": 532,
+        "name": "total_market_cap",
+        "time": "2023-03-27T00:00:00.000Z",
+        "value": 133052403529.61,
+        "created_time": "2023-11-26T13:31:10.898Z",
+        "updated_time": "2023-11-26T13:31:10.898Z"
+    },
+    {
+        "id": 533,
+        "name": "total_market_cap",
+        "time": "2023-03-28T00:00:00.000Z",
+        "value": 132627237808.08,
+        "created_time": "2023-11-26T13:31:10.900Z",
+        "updated_time": "2023-11-26T13:31:10.900Z"
+    },
+    {
+        "id": 534,
+        "name": "total_market_cap",
+        "time": "2023-03-29T00:00:00.000Z",
+        "value": 132265345852.46,
+        "created_time": "2023-11-26T13:31:10.901Z",
+        "updated_time": "2023-11-26T13:31:10.901Z"
+    },
+    {
+        "id": 535,
+        "name": "total_market_cap",
+        "time": "2023-03-30T00:00:00.000Z",
+        "value": 132220338087.89,
+        "created_time": "2023-11-26T13:31:10.902Z",
+        "updated_time": "2023-11-26T13:31:10.902Z"
+    },
+    {
+        "id": 536,
+        "name": "total_market_cap",
+        "time": "2023-03-31T00:00:00.000Z",
+        "value": 132221850434.17,
+        "created_time": "2023-11-26T13:31:10.903Z",
+        "updated_time": "2023-11-26T13:31:10.903Z"
+    },
+    {
+        "id": 537,
+        "name": "total_market_cap",
+        "time": "2023-04-01T00:00:00.000Z",
+        "value": 131712042650.68,
+        "created_time": "2023-11-26T13:31:10.904Z",
+        "updated_time": "2023-11-26T13:31:10.904Z"
+    },
+    {
+        "id": 538,
+        "name": "total_market_cap",
+        "time": "2023-04-02T00:00:00.000Z",
+        "value": 131639906395.27,
+        "created_time": "2023-11-26T13:31:10.905Z",
+        "updated_time": "2023-11-26T13:31:10.905Z"
+    },
+    {
+        "id": 539,
+        "name": "total_market_cap",
+        "time": "2023-04-03T00:00:00.000Z",
+        "value": 131856155867.00,
+        "created_time": "2023-11-26T13:31:10.906Z",
+        "updated_time": "2023-11-26T13:31:10.906Z"
+    },
+    {
+        "id": 540,
+        "name": "total_market_cap",
+        "time": "2023-04-04T00:00:00.000Z",
+        "value": 132412015643.61,
+        "created_time": "2023-11-26T13:31:10.908Z",
+        "updated_time": "2023-11-26T13:31:10.908Z"
+    },
+    {
+        "id": 541,
+        "name": "total_market_cap",
+        "time": "2023-04-05T00:00:00.000Z",
+        "value": 131778986981.13,
+        "created_time": "2023-11-26T13:31:10.909Z",
+        "updated_time": "2023-11-26T13:31:10.909Z"
+    },
+    {
+        "id": 542,
+        "name": "total_market_cap",
+        "time": "2023-04-06T00:00:00.000Z",
+        "value": 131713216918.48,
+        "created_time": "2023-11-26T13:31:10.910Z",
+        "updated_time": "2023-11-26T13:31:10.910Z"
+    },
+    {
+        "id": 543,
+        "name": "total_market_cap",
+        "time": "2023-04-07T00:00:00.000Z",
+        "value": 131932245829.91,
+        "created_time": "2023-11-26T13:31:10.911Z",
+        "updated_time": "2023-11-26T13:31:10.911Z"
+    },
+    {
+        "id": 544,
+        "name": "total_market_cap",
+        "time": "2023-04-08T00:00:00.000Z",
+        "value": 131935890811.31,
+        "created_time": "2023-11-26T13:31:10.912Z",
+        "updated_time": "2023-11-26T13:31:10.912Z"
+    },
+    {
+        "id": 545,
+        "name": "total_market_cap",
+        "time": "2023-04-09T00:00:00.000Z",
+        "value": 132127513179.60,
+        "created_time": "2023-11-26T13:31:10.913Z",
+        "updated_time": "2023-11-26T13:31:10.913Z"
+    },
+    {
+        "id": 546,
+        "name": "total_market_cap",
+        "time": "2023-04-10T00:00:00.000Z",
+        "value": 131811915853.06,
+        "created_time": "2023-11-26T13:31:10.914Z",
+        "updated_time": "2023-11-26T13:31:10.914Z"
+    },
+    {
+        "id": 311,
+        "name": "supply_balance_more_100k",
+        "time": "2023-09-25T00:00:00.000Z",
+        "value": 660085.0714597999,
+        "created_time": "2023-11-25T06:00:01.135Z",
+        "updated_time": "2023-11-25T06:00:01.135Z"
+    },
+    {
+        "id": 410,
+        "name": "total_market_cap",
+        "time": "2022-11-25T00:00:00.000Z",
+        "value": 143269500922.43,
+        "created_time": "2023-11-26T13:31:10.741Z",
+        "updated_time": "2023-11-26T13:31:10.741Z"
+    },
+    {
+        "id": 411,
+        "name": "total_market_cap",
+        "time": "2022-11-26T00:00:00.000Z",
+        "value": 142958697574.30,
+        "created_time": "2023-11-26T13:31:10.744Z",
+        "updated_time": "2023-11-26T13:31:10.744Z"
+    },
+    {
+        "id": 412,
+        "name": "total_market_cap",
+        "time": "2022-11-27T00:00:00.000Z",
+        "value": 143144917395.46,
+        "created_time": "2023-11-26T13:31:10.745Z",
+        "updated_time": "2023-11-26T13:31:10.745Z"
+    },
+    {
+        "id": 413,
+        "name": "total_market_cap",
+        "time": "2022-11-28T00:00:00.000Z",
+        "value": 143138720932.57,
+        "created_time": "2023-11-26T13:31:10.747Z",
+        "updated_time": "2023-11-26T13:31:10.747Z"
+    },
+    {
+        "id": 414,
+        "name": "total_market_cap",
+        "time": "2022-11-29T00:00:00.000Z",
+        "value": 142086047890.16,
+        "created_time": "2023-11-26T13:31:10.749Z",
+        "updated_time": "2023-11-26T13:31:10.749Z"
+    },
+    {
+        "id": 415,
+        "name": "total_market_cap",
+        "time": "2022-11-30T00:00:00.000Z",
+        "value": 141456802252.50,
+        "created_time": "2023-11-26T13:31:10.751Z",
+        "updated_time": "2023-11-26T13:31:10.751Z"
+    },
+    {
+        "id": 416,
+        "name": "total_market_cap",
+        "time": "2022-12-01T00:00:00.000Z",
+        "value": 141312348365.23,
+        "created_time": "2023-11-26T13:31:10.755Z",
+        "updated_time": "2023-11-26T13:31:10.755Z"
+    },
+    {
+        "id": 417,
+        "name": "total_market_cap",
+        "time": "2022-12-02T00:00:00.000Z",
+        "value": 141149643948.00,
+        "created_time": "2023-11-26T13:31:10.756Z",
+        "updated_time": "2023-11-26T13:31:10.756Z"
+    },
+    {
+        "id": 418,
+        "name": "total_market_cap",
+        "time": "2022-12-03T00:00:00.000Z",
+        "value": 141423778494.56,
+        "created_time": "2023-11-26T13:31:10.758Z",
+        "updated_time": "2023-11-26T13:31:10.758Z"
+    },
+    {
+        "id": 312,
+        "name": "supply_balance_more_100k",
+        "time": "2023-09-26T00:00:00.000Z",
+        "value": 660085.07147081,
+        "created_time": "2023-11-25T06:00:01.150Z",
+        "updated_time": "2023-11-25T06:00:01.150Z"
+    },
+    {
+        "id": 313,
+        "name": "supply_balance_more_100k",
+        "time": "2023-09-27T00:00:00.000Z",
+        "value": 660085.07147081,
+        "created_time": "2023-11-25T06:00:01.152Z",
+        "updated_time": "2023-11-25T06:00:01.152Z"
+    },
+    {
+        "id": 314,
+        "name": "supply_balance_more_100k",
+        "time": "2023-09-28T00:00:00.000Z",
+        "value": 660085.07147081,
+        "created_time": "2023-11-25T06:00:01.154Z",
+        "updated_time": "2023-11-25T06:00:01.154Z"
+    },
+    {
+        "id": 315,
+        "name": "supply_balance_more_100k",
+        "time": "2023-09-29T00:00:00.000Z",
+        "value": 660085.0724246799,
+        "created_time": "2023-11-25T06:00:01.156Z",
+        "updated_time": "2023-11-25T06:00:01.156Z"
+    },
+    {
+        "id": 316,
+        "name": "supply_balance_more_100k",
+        "time": "2023-09-30T00:00:00.000Z",
+        "value": 660085.0724246799,
+        "created_time": "2023-11-25T06:00:01.158Z",
+        "updated_time": "2023-11-25T06:00:01.158Z"
+    },
+    {
+        "id": 317,
+        "name": "supply_balance_more_100k",
+        "time": "2023-10-01T00:00:00.000Z",
+        "value": 660085.0724246799,
+        "created_time": "2023-11-25T06:00:01.160Z",
+        "updated_time": "2023-11-25T06:00:01.160Z"
+    },
+    {
+        "id": 318,
+        "name": "supply_balance_more_100k",
+        "time": "2023-10-02T00:00:00.000Z",
+        "value": 660085.0724246799,
+        "created_time": "2023-11-25T06:00:01.162Z",
+        "updated_time": "2023-11-25T06:00:01.162Z"
+    },
+    {
+        "id": 319,
+        "name": "supply_balance_more_100k",
+        "time": "2023-10-03T00:00:00.000Z",
+        "value": 660085.0734246799,
+        "created_time": "2023-11-25T06:00:01.164Z",
+        "updated_time": "2023-11-25T06:00:01.164Z"
+    },
+    {
+        "id": 320,
+        "name": "supply_balance_more_100k",
+        "time": "2023-10-04T00:00:00.000Z",
+        "value": 660085.0734246799,
+        "created_time": "2023-11-25T06:00:01.166Z",
+        "updated_time": "2023-11-25T06:00:01.166Z"
+    },
+    {
+        "id": 321,
+        "name": "supply_balance_more_100k",
+        "time": "2023-10-05T00:00:00.000Z",
+        "value": 660085.0734301399,
+        "created_time": "2023-11-25T06:00:01.168Z",
+        "updated_time": "2023-11-25T06:00:01.168Z"
+    },
+    {
+        "id": 322,
+        "name": "supply_balance_more_100k",
+        "time": "2023-10-06T00:00:00.000Z",
+        "value": 660085.0734301399,
+        "created_time": "2023-11-25T06:00:01.170Z",
+        "updated_time": "2023-11-25T06:00:01.170Z"
+    },
+    {
+        "id": 323,
+        "name": "supply_balance_more_100k",
+        "time": "2023-10-07T00:00:00.000Z",
+        "value": 660085.0734301399,
+        "created_time": "2023-11-25T06:00:01.172Z",
+        "updated_time": "2023-11-25T06:00:01.172Z"
+    }
+]
