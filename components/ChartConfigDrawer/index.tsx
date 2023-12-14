@@ -7,7 +7,6 @@ import {
   XAxisTitleOptions,
   YAxisTitleOptions,
 } from "highcharts";
-import { dig, set } from "@/common/utils";
 import ChartTextFormatter from "../ChartTextFormatter";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 import ColorPicker from "../ColorPicker";
@@ -24,6 +23,8 @@ import ChartSeriesOption from "./ChartSeriesOption";
 import ChartLegendOptions from "./ChartLegendOptions";
 import ChartXAxisOptions from "./ChartXAxisOptions";
 import ChartYAxisOptions from "./ChartYAxisOptions";
+import { Close } from "@mui/icons-material";
+import ChartSeriConfigDrawer from "./ChartSeriConfigDrawer";
 
 export const AUTO_VALUE = "auto";
 
@@ -113,89 +114,121 @@ interface ChartTitleOptionsProps {
 
 interface ChartConfigDrawerProps extends DrawerProps {
   chartOptions: ChartOptionsProps;
+  selectedSeri: null | string;
+  setSeletedSeri: (v: any) => void;
+  handleClose: () => void;
   onChangeConfigs: (config: ChartOptionsProps) => void;
 }
 
 const ChartConfigDrawer = ({
   onChangeConfigs,
   chartOptions,
+  handleClose,
+  selectedSeri,
+  setSeletedSeri,
   ...rest
 }: ChartConfigDrawerProps) => {
-  const generateChartConfigItem = (index: number) => {
-    return (config: SeriesOptionsType) => {};
-  };
-
+  const isOpenSeriDrawer = Boolean(selectedSeri);
   return (
-    <Drawer
-      {...rest}
-      PaperProps={{
-        sx: (theme) => ({
-          padding: "32px",
-          maxWidth: "400px",
-        }),
-      }}
-    >
-      <Typography variant="h1">Change chart configs</Typography>
-      <Box
-        sx={() => ({
-          display: "flex",
-          flexDirection: "column",
-          paddingTop: "16px",
-        })}
+    <>
+      <Drawer
+        {...rest}
+        PaperProps={{
+          sx: (theme) => ({
+            padding: "32px",
+            maxWidth: "400px",
+          }),
+        }}
       >
-        <ChartConfigItem
-          configKey={"CHART_STYLE"}
-          value={chartOptions}
-          onChange={(c) => {
-            onChangeConfigs(c);
+        <Close
+          onClick={handleClose}
+          sx={{
+            position: "absolute",
+            right: "16px",
+            cursor: "pointer",
           }}
         />
+        <Typography variant="h1" mt={"32px"}>
+          Change chart configs
+        </Typography>
+        <Box
+          sx={() => ({
+            display: "flex",
+            flexDirection: "column",
+          })}
+        >
+          <ChartConfigItem
+            configKey={"CHART_STYLE"}
+            value={chartOptions}
+            onChange={(c) => {
+              onChangeConfigs(c);
+            }}
+          />
 
-        <ChartConfigItem
-          configKey={"CHART_AXIS"}
-          value={chartOptions}
-          onChange={(c) => {
-            onChangeConfigs(c);
-          }}
-        />
+          <ChartConfigItem
+            configKey={"CHART_AXIS"}
+            value={chartOptions}
+            onChange={(c) => {
+              onChangeConfigs(c);
+            }}
+          />
 
-        <ChartConfigItem
-          configKey={"CHART_SERIES"}
-          value={chartOptions}
-          onChange={(c) => {
-            onChangeConfigs(c);
-          }}
-        />
+          <ChartConfigItem
+            configKey={"CHART_SERIES"}
+            value={chartOptions}
+            onChange={(c) => {
+              onChangeConfigs(c);
+            }}
+          />
 
-        <ChartConfigItem
-          configKey={"CHART_LEGENDS"}
-          value={chartOptions}
-          onChange={(c) => {
-            onChangeConfigs(c);
-          }}
-        />
+          <ChartConfigItem
+            configKey={"CHART_LEGENDS"}
+            value={chartOptions}
+            onChange={(c) => {
+              onChangeConfigs(c);
+            }}
+          />
 
-        <ChartConfigItem
-          configKey={"CHART_X_AXIS"}
-          value={chartOptions}
-          onChange={(c) => {
-            onChangeConfigs(c);
-          }}
-        />
+          <ChartConfigItem
+            configKey={"CHART_X_AXIS"}
+            value={chartOptions}
+            onChange={(c) => {
+              onChangeConfigs(c);
+            }}
+          />
 
-        <ChartConfigItem
-          configKey={"CHART_Y_AXIS"}
-          value={chartOptions}
-          onChange={(c) => {
-            onChangeConfigs(c);
-          }}
-        />
+          <ChartConfigItem
+            configKey={"CHART_Y_AXIS"}
+            value={chartOptions}
+            onChange={(c) => {
+              onChangeConfigs(c);
+            }}
+          />
 
-        {/* {seriesOptions.map((option, index) => (
+          {/* {seriesOptions.map((option, index) => (
           <ChartConfigItem key={`config_${index}`} option={option} />
         ))} */}
-      </Box>
-    </Drawer>
+        </Box>
+      </Drawer>
+      {selectedSeri && (
+        <ChartSeriConfigDrawer
+          open={isOpenSeriDrawer}
+          selectedSeri={selectedSeri}
+          anchor="right"
+          variant="persistent"
+          value={chartOptions}
+          handleChangeValue={(v) => {
+            onChangeConfigs(v);
+          }}
+          onClose={() => {
+            setSeletedSeri(null);
+          }}
+          setSeri={(v) => {
+            setSeletedSeri(v);
+          }}
+        />
+      )}
+    </>
   );
 };
 

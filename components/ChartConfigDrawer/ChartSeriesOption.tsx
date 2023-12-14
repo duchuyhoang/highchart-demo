@@ -1,5 +1,10 @@
 import React, { useMemo, useState } from "react";
-import { CHART_TYPES, ChartOptionsProps, CHART_OPACITYS } from "./type";
+import {
+  CHART_TYPES,
+  ChartOptionsProps,
+  CHART_OPACITYS,
+  SYMBOL_VALUES,
+} from "./type";
 import { Box, Grid, MenuItem, Select, Typography } from "@mui/material";
 import { SeriesOptionsType } from "highcharts";
 import { cloneDeep, set } from "lodash";
@@ -7,6 +12,7 @@ import ColorPicker from "../ColorPicker";
 import ChartInputLabel from "./base";
 import ChartDashType from "../ChartDashType";
 import ChartLineThickness from "../ChartLineThickness";
+import ChartConfigSelect from "../ChartConfigSelect";
 
 // CHART_TYPES
 
@@ -73,6 +79,16 @@ const ChartSeriesLineConfig = ({
           value={(value as any).lineWidth}
           onChange={(v) => {
             onChange("lineWidth", v);
+          }}
+        />
+      </Grid>
+      <Grid item xs={6}>
+        <ChartConfigSelect
+          label={"Symbol"}
+          datas={SYMBOL_VALUES}
+          value={(value as any).marker?.symbol}
+          onChange={(e) => {
+            onChange("marker.symbol", e.target.value);
           }}
         />
       </Grid>

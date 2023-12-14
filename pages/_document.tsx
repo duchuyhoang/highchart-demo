@@ -58,11 +58,7 @@ class MyDocument extends Document {
             content="width=device-width, initial-scale=1, user-scalable=no,maximum-scale=1"
           ></meta>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
-          <link
-            rel="preconnect"
-            href="https://fonts.gstatic.com"
-            crossorigin={true}
-          />
+
           <link
             href="https://fonts.googleapis.com/css2?family=Sen:wght@400;500;600;700&display=swap"
             rel="stylesheet"

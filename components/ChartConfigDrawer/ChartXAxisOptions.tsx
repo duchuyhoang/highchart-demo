@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from "react";
-import { ChartOptionsProps } from "./type";
+import { ChartOptionsProps, ROTATION_VALUES } from "./type";
 import { cloneDeep, set } from "lodash";
-import { Grid } from "@mui/material";
+import { Grid, Typography } from "@mui/material";
 import { XAxisLabelsOptions } from "highcharts";
 import ChartFontFamilyPicker from "../ChartFontFamilyPicker";
 import ChartFontSizeSelector from "../ChartFontSizeSelector";
@@ -33,7 +33,6 @@ const ChartXAxisOptions = ({ onChange, value }: ChartXAxisProps) => {
       {}
     ) as Record<string, XAxisLabelsOptions>;
   }, [xAxisLabel]);
-  console.log(valuesMap);
 
   const selectedValue = valuesMap[selectedIndex] as XAxisLabelsOptions;
 
@@ -101,6 +100,25 @@ const ChartXAxisOptions = ({ onChange, value }: ChartXAxisProps) => {
             label="Text color"
             onChange={(v) => {
               handleChange("style.color", v);
+            }}
+          />
+        </Grid>
+        <Grid item xs={12}>
+          <ChartConfigSelect
+            value={selectedValue.rotation}
+            label="Slant labels"
+            datas={ROTATION_VALUES.map((v, index) => ({
+              value: v.value,
+              label: (
+                <Typography
+                  dangerouslySetInnerHTML={{
+                    __html: v.label,
+                  }}
+                ></Typography>
+              ),
+            }))}
+            onChange={(e) => {
+              handleChange("rotation", Number(e.target.value));
             }}
           />
         </Grid>

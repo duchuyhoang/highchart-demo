@@ -27,7 +27,14 @@ const Home: NextPage = () => {
   return (
     <>
       <Header />
-      <Container>
+
+      <Container
+        containerProps={{
+          style: {
+            marginTop: "40px",
+          },
+        }}
+      >
         <Chart />
       </Container>
       {/* <Container>

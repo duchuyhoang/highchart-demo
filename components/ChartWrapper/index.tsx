@@ -4,14 +4,15 @@ import Highcharts, {
   AlignValue,
   DashStyleValue,
   OptionsLayoutValue,
+  SeriesOptionsType,
   VerticalAlignValue,
-} from "highcharts";
+} from "highcharts/highstock";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { columnDatas, datas } from "../../datas";
 import { shortenNumber } from "@/common/utils";
 import data from "../../data.json";
 import ChartConfigDrawer from "../ChartConfigDrawer";
-import { SeriesOptionsType, ChartOptions } from "highcharts";
+// import { SeriesOptionsType, ChartOptions } from "highcharts";
 import { Box, Button } from "@mui/material";
 import { CHART_DEFAULT_CONFIGS_PARAMS } from "@/common/configs";
 import {
@@ -20,6 +21,23 @@ import {
   FONT_SIZE_OPTIONS,
   THICK_OPTIONS,
 } from "../ChartConfigDrawer/type";
+import { ClickAwayListener } from "@mui/base/ClickAwayListener";
+import ChartConfigSelect from "../ChartConfigSelect";
+// hightchartStock(Highcharts);
+
+// import Indicators from "highcharts/indicators/indicators-all.js";
+// import DragPanes from "highcharts/modules/drag-panes.js";
+// import AnnotationsAdvanced from "highcharts/modules/annotations-advanced.js";
+// import PriceIndicator from "highcharts/modules/price-indicator.js";
+// import FullScreen from "highcharts/modules/full-screen.js";
+// import StockTools from "highcharts/modules/stock-tools.js";
+
+// Indicators(Highcharts);
+// DragPanes(Highcharts);
+// AnnotationsAdvanced(Highcharts);
+// PriceIndicator(Highcharts);
+// FullScreen(Highcharts);
+// StockTools(Highcharts);
 
 const ACTIVE_ADDRESS_COLOR = "rgb(247, 147, 26)";
 const PRICE_COLOR = "rgb(51, 51, 51)";
@@ -32,17 +50,22 @@ const DEFAULT_FONT_STYLES = {
   fontSize: FONT_SIZE_OPTIONS[0].value,
 };
 
-const HOVER_OPACITY = 0.2;
+const DEFAULT_SERIES_ITEM_STYLES = {
+  opacity: CHART_DEFAULT_CONFIGS_PARAMS["OPACITY"],
+  // borderColor
+};
+
+const generateSeriesAttribute = (legend: string, datas: number[][]) => {
+  return {
+    name: legend,
+  };
+};
+
 const formattedDatas = data.map((d) => [new Date(d.time).getTime(), d.value]);
 function Chart() {
   const [isOpen, setIsOpen] = useState(false);
   const chartComponentRef = useRef<HighchartsReact.RefObject>(null);
-  // const [chartLogScales, setChartLogScales] = useState({
-  //   PRICE: "linear",
-  //   ACTIVE: "linear",
-  // });
-
-  // const [seriesOptions, setSeriesOptions] = useState<Array<SeriesOptionsType>>();
+  const [selectedSeri, setSeletedSeri] = useState<string | null>(null);
 
   const [chartOptions, setChartOptions] = useState<ChartOptionsProps>({
     chartTitleOptions: {
@@ -82,6 +105,13 @@ function Chart() {
       borderColor: CHART_DEFAULT_CONFIGS_PARAMS["CHART_BORDER_COLOR"],
       className: "san-serif",
       borderRadius: 20,
+      height: 500,
+      // events: {
+      //   redraw: function () {
+      //     console.log("re draw");
+      //   },
+      // },
+      // zoomType: "xy",
     },
     legendOptions: {
       align: CHART_DEFAULT_CONFIGS_PARAMS[
@@ -100,30 +130,76 @@ function Chart() {
     seriesOptions: [
       {
         name: "Active Addresses",
-        data: datas.map((d: any) => [d[0], d[1]]),
-        // data: formattedDatas,
-        type: "line",
-        lineWidth: CHART_DEFAULT_CONFIGS_PARAMS["THICKNESS"],
+        // data: datas.map((d: any) => [d[0], d[1]]),
+        data: datas,
+        // data:[{
+        //   marker: {
+        //     symbol:""
+        //   }
+        // }]
+
+        // borderWidth: 1,
+        // .map((d: any, index) => ({
+        //   x: d[0],
+        //   y: d[1],
+        //   color: index % 3 === 0 ? "red" : ACTIVE_ADDRESS_COLOR,
+        //   borderColor: "transparent",
+        //   // opacity: 0.4,
+        //   events: {
+        //     click: function (...params) {
+        //       console.log(this, params);
+        //     },
+        //   },
+        // })),
+        type: "column",
+
+        // data: [
+        //   [0, 4, 3, 4, 5],
+        //   [1, 4, 3, 4, 5],
+        //   [2, 4, 3, 4, 5],
+        //   [3, 4, 3, 4, 5],
+        //   [4, 4, 3, 4, 5],
+        // ],
+        // type: "ohlc",
+        // lineWidth: CHART_DEFAULT_CONFIGS_PARAMS["THICKNESS"],
         opacity: CHART_DEFAULT_CONFIGS_PARAMS["OPACITY"],
         color: ACTIVE_ADDRESS_COLOR,
+
         yAxis: 0,
         dashStyle: CHART_DEFAULT_CONFIGS_PARAMS["DASH_STYLE"] as DashStyleValue,
         tooltip: {
           valueDecimals: 2,
         },
         marker: {
-          radius: 2,
+          symbol: CHART_DEFAULT_CONFIGS_PARAMS["SYMBOL"],
         },
-        label: {
-          formatter: function () {
-            return `${shortenNumber((this as any).value, 2)}`;
-          },
-        },
+        // marker: {
+        //   radius: 2,
+        // },
+        // label: {
+        //   formatter: function () {
+        //     return `${shortenNumber((this as any).value, 2)}`;
+        //   },
+        // },
       },
       {
         name: "Price (USD)",
-        data: columnDatas.map((d: any) => [d[0], d[1]]),
-        // data: formattedDatas,
+        // data: columnDatas.map((d: any) => [d[0], d[1]]),
+        data: columnDatas,
+
+        // .map((d: any, index) => ({
+        //   x: d[0],
+        //   y: d[1],
+        //   events: {
+        //     click: function (...params) {
+        //       console.log("ccccc", params);
+        //     },
+        //   },
+        // })),
+        marker: {
+          symbol: CHART_DEFAULT_CONFIGS_PARAMS["SYMBOL"],
+          // lineColor: "red",
+        },
         type: "line",
         dashStyle: CHART_DEFAULT_CONFIGS_PARAMS["DASH_STYLE"] as DashStyleValue,
         opacity: CHART_DEFAULT_CONFIGS_PARAMS["OPACITY"],
@@ -133,21 +209,25 @@ function Chart() {
         tooltip: {
           valueDecimals: 2,
         },
-
-        // marker: {
-        //   radius: 20,
-        // },
       },
     ],
     xAxisLabel: [
       {
         style: { ...DEFAULT_FONT_STYLES },
+        rotation: CHART_DEFAULT_CONFIGS_PARAMS["ROTATION"],
       },
     ],
     yAxisLabel: [
       { style: { ...DEFAULT_FONT_STYLES } },
       { style: { ...DEFAULT_FONT_STYLES } },
     ],
+    seriesAdditionalConfigs: {
+      // "0": {
+      //   "2": {
+      //     color: "red",
+      //   },
+      // },
+    },
   });
 
   const options = useMemo<Highcharts.Options>(() => {
@@ -196,46 +276,130 @@ function Chart() {
           type: "linear",
         },
       ],
-      series: chartOptions.seriesOptions,
+      series: chartOptions.seriesOptions.map((seri, seriIndex) => {
+        return {
+          ...seri,
+          data: (seri as any).data.map((d: number[][], dataIndex: number) => {
+            const item_seri_id = `${seri.type}_${seriIndex}_${dataIndex}`;
+            return {
+              x: d[0],
+              y: d[1],
+              selected: item_seri_id === selectedSeri,
+              ...(chartOptions.seriesAdditionalConfigs[seriIndex] &&
+                chartOptions.seriesAdditionalConfigs[seriIndex][dataIndex] &&
+                chartOptions.seriesAdditionalConfigs[seriIndex][dataIndex]),
+              events: {
+                click: function () {
+                  setIsOpen(true);
+                  setSeletedSeri(item_seri_id);
+                },
+              },
+              marker: {
+                symbol: (seri as any).marker.symbol,
+                ...(chartOptions.seriesAdditionalConfigs[seriIndex] &&
+                  chartOptions.seriesAdditionalConfigs[seriIndex][dataIndex] &&
+                  chartOptions.seriesAdditionalConfigs[seriIndex][dataIndex]
+                    .marker),
+                states: {
+                  select: {
+                    fillColor:
+                      chartOptions.seriesAdditionalConfigs?.[seriIndex]?.[
+                        dataIndex
+                      ]?.color || seri.color,
+                    borderColor: "blue",
+                    lineColor:
+                      chartOptions.seriesAdditionalConfigs?.[seriIndex]?.[
+                        dataIndex
+                      ]?.color || seri.color,
+                  },
+                },
+              },
+              states: {
+                select: {
+                  borderColor:
+                    chartOptions.seriesAdditionalConfigs?.[seriIndex]?.[
+                      dataIndex
+                    ]?.borderColor ||
+                    seri.borderColor ||
+                    "blue",
+                  color:
+                    chartOptions.seriesAdditionalConfigs?.[seriIndex]?.[
+                      dataIndex
+                    ]?.color || seri.color,
+                },
+              },
+            };
+          }),
+        };
+      }) as Array<any>,
+      plotOptions: {
+        // series:[]
+        // column: {
+        //   states: {
+        //     // select: {
+        //     //   borderColor: function () {
+        //     //     console.log("xxx", this);
+        //     //   },
+        //     //   // color: "",
+        //     // },
+        //   },
+        // },
+      },
     };
-  }, [formattedDatas, chartOptions]);
+  }, [chartOptions, selectedSeri]);
 
   return (
     <>
       <section
         style={{
-          height: "100vh",
+          height: "70vh",
           display: "flex",
           justifyContent: "center",
-          width: "100vw",
+          maxWidth: "100vw",
         }}
       >
-        {/* <div className="line dash"></div> */}
         <div
           style={{
-            height: "100vh",
-            width: "100%",
+            height: "100%",
+            width: "90%",
             display: "flex",
             justifyContent: "center",
             alignItems: "center",
             flexDirection: "column",
           }}
         >
-          <div
-            style={{
-              display: "flex",
-              width: "100%",
-              marginBottom: "8px",
-              justifyContent: "space-between",
+          <ClickAwayListener
+            mouseEvent="onMouseUp"
+            onClickAway={() => {
+              if (selectedSeri || isOpen) {
+                setSeletedSeri(null);
+                setIsOpen(false);
+              }
             }}
           >
-            <div
-              style={{
-                display: "flex",
-                alignItems: "center",
+            <Box
+              sx={{
+                width: "100%",
+                ".highcharts-credits": {
+                  display: "none",
+                },
               }}
             >
-              <div className="chart-label-wrapper">
+              <div
+                style={{
+                  display: "flex",
+                  width: "100%",
+                  marginBottom: "8px",
+                  justifyContent: "space-between",
+                }}
+              >
+                <div
+                  style={{
+                    display: "flex",
+                    alignItems: "center",
+                  }}
+                >
+                  {/* <div className="chart-label-wrapper">
                 <div
                   className="icon"
                   style={{
@@ -258,63 +422,74 @@ function Chart() {
                   }}
                 ></div>
                 <p>Price (USD)</p>
-              </div>
-            </div>
+              </div> */}
+                </div>
 
-            <Button
-              size="small"
-              variant="contained"
-              onClick={() => {
-                setIsOpen(true);
-              }}
-            >
-              Open config drawer
-            </Button>
-          </div>
-          <Box
-            id="container"
-            style={{
-              width: "100%",
-              aspectRatio: "16/9",
-            }}
-            sx={{
-              ...FONT_FAMILYS.reduce(
-                (prev, fontFamily) => ({
-                  ...prev,
-                  [`.${fontFamily.selector}`]: {
-                    "*": {
-                      fontFamily: fontFamily.style,
-                    },
-                  },
-                }),
-                {}
-              ),
-              // ".arial": {
-              //   "*": {
-              //     fontFamily: "Arial",
-              //   },
-              // },
-            }}
-          >
-            <HighchartsReact
-              highcharts={Highcharts}
-              ref={chartComponentRef}
-              options={options}
-            />
-          </Box>
+                <Button
+                  size="small"
+                  variant="contained"
+                  onClick={() => {
+                    setIsOpen(true);
+                  }}
+                >
+                  Open config drawer
+                </Button>
+              </div>
+
+              <Box
+                id="container"
+                style={{
+                  width: "100%",
+                  // aspectRatio: "16/9",
+                }}
+                sx={{
+                  ...FONT_FAMILYS.reduce(
+                    (prev, fontFamily) => ({
+                      ...prev,
+                      [`.${fontFamily.selector}`]: {
+                        "*": {
+                          fontFamily: fontFamily.style,
+                        },
+                      },
+                    }),
+                    {}
+                  ),
+                  // ".arial": {
+                  //   "*": {
+                  //     fontFamily: "Arial",
+                  //   },
+                  // },
+                }}
+              >
+                <HighchartsReact
+                  highcharts={Highcharts}
+                  ref={chartComponentRef}
+                  options={options}
+                />
+              </Box>
+              <ChartConfigDrawer
+                anchor="right"
+                variant="persistent"
+                selectedSeri={selectedSeri}
+                setSeletedSeri={(v) => {
+                  setSeletedSeri(v);
+                }}
+                chartOptions={chartOptions}
+                open={isOpen}
+                handleClose={() => {
+                  setIsOpen(false);
+                }}
+                // onClose={() => {
+                //   setIsOpen(false);
+                // }}
+                onChangeConfigs={(configs) => {
+                  setChartOptions(configs);
+                }}
+              />
+            </Box>
+          </ClickAwayListener>
         </div>
       </section>
-      <ChartConfigDrawer
-        anchor="right"
-        chartOptions={chartOptions}
-        open={isOpen}
-        onClose={() => {
-          setIsOpen(false);
-        }}
-        onChangeConfigs={(configs) => {
-          setChartOptions(configs);
-        }}
-      />
     </>
   );
 }

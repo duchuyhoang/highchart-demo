@@ -1,6 +1,7 @@
 import {
   ChartOptions,
   LegendOptions,
+  PointOptionsObject,
   SeriesOptionsType,
   SubtitleOptions,
   TitleOptions,
@@ -11,7 +12,10 @@ import {
   YAxisOptions,
   YAxisTitleOptions,
 } from "highcharts";
-
+import CircleIcon from "@mui/icons-material/Circle";
+import { Box, Typography } from "@mui/material";
+import SquareIcon from "@mui/icons-material/Square";
+import ChangeHistoryIcon from "@mui/icons-material/ChangeHistory";
 export interface ChartOptionsProps {
   chartStyles: ChartOptions;
   chartTitleOptions: {
@@ -24,6 +28,7 @@ export interface ChartOptionsProps {
   legendOptions: LegendOptions;
   yAxisLabel: Array<YAxisLabelsOptions>;
   xAxisLabel: Array<XAxisLabelsOptions>;
+  seriesAdditionalConfigs: Record<string, Record<string, PointOptionsObject>>;
 }
 
 export type CHART_CONFIG_LABEL =
@@ -282,5 +287,89 @@ export const LEGEND_LIST_VALUES = [
   {
     label: "Vertical",
     value: "vertical",
+  },
+];
+
+export const ROTATION_VALUES = [
+  {
+    label: "0&#176;",
+    value: 0,
+  },
+  {
+    label: "30&#176;",
+    value: 30,
+  },
+  {
+    label: "60&#176;",
+    value: 60,
+  },
+  {
+    label: "90&#176;",
+    value: 90,
+  },
+];
+
+const SymbolItem = ({
+  icon,
+  label,
+}: {
+  icon: React.ReactNode;
+  label: string;
+}) => {
+  return (
+    <>
+      <Box
+        sx={{
+          display: "flex",
+          alignItems: "center",
+        }}
+      >
+        {icon}
+        <Typography
+          variant="body1"
+          sx={{
+            marginLeft: "4px",
+          }}
+        >
+          {label}
+        </Typography>
+      </Box>
+    </>
+  );
+};
+
+export const SYMBOL_VALUES = [
+  {
+    label: <SymbolItem label="Circle" icon={<CircleIcon fontSize="small" />} />,
+    value: "circle",
+  },
+  {
+    label: <SymbolItem label="Square" icon={<SquareIcon fontSize="small" />} />,
+    value: "square",
+  },
+  {
+    label: (
+      <SymbolItem
+        label="Triangle"
+        icon={<ChangeHistoryIcon fontSize="small" />}
+      />
+    ),
+    value: "triangle",
+  },
+  {
+    label: (
+      <SymbolItem
+        label="Triangle down"
+        icon={
+          <ChangeHistoryIcon
+            sx={{
+              transform: "rotate(180deg)",
+            }}
+            fontSize="small"
+          />
+        }
+      />
+    ),
+    value: "triangle-down",
   },
 ];
